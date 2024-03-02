@@ -27,8 +27,22 @@ Skills
   
 * Deductive and Inductive Reasoning — The ability to apply general rules to specific problems to produce answers that make sense.
   
-* Information Ordering — The ability to arrange things or actions in a certain order or pattern according to a specific rule or set of rules (e.g., patterns of numbers, letters, words, pictures, mathematical operations).
+* Information Ordering
 
+* Programming
+  * MATLAB
+  * Python
+    * TensorFlow
+    * Keras
+    * numpy
+    * others
+  * C
+  * Fortran
+
+* Latex
+
+* Microsoft Office 365
+    
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
