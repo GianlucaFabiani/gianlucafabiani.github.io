@@ -31,11 +31,11 @@ author:
   email            : "gianluca.fabiani@unina.it" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/search/cs?searchtype=author&query=Fabiani,+G"
   googlescholar    : "https://scholar.google.com/citations?user=3114ZDcAAAAJ&hl=it"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : "https://orcid.org/0000-0002-9799-451X"
+  pubmed           : # URL "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Gianluca-Fabiani-2"
 
   # Repositories and software development
