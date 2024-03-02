@@ -11,35 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Ph.D in Modelling and Engineering Risk and Complexity, at Scuola SUperiore Meridionale (SSM) (expected November 2024)
+* M.S. in Applied Mathematics, Università degli Studi di Napoli Federico II, October 2020
+* B.S. in Mathematics, Università degli Studi di Napoli Federico II, June 2018
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mathematics and Mathematical Reasoning
+
+* Complex Problem Solving  
+
+* Critical Thinking  
+
+* Active Learning
+  
+* Deductive and Inductive Reasoning — The ability to apply general rules to specific problems to produce answers that make sense.
+  
+* Information Ordering — The ability to arrange things or actions in a certain order or pattern according to a specific rule or set of rules (e.g., patterns of numbers, letters, words, pictures, mathematical operations).
 
 Publications
 ======
