@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Gianluca Fabiani"
 title_separator          : "-"
 name                     : &name "Gianluca Fabiani"
-description              : &description "personal description"
+description              : &description "PhD Student at Scuola Superiore Meridionale"
 url                      : https://gianlucafabiani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gianlucafabiani/gianlucafabiani.github.io"
@@ -32,11 +32,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=3114ZDcAAAAJ&hl=it"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Gianluca-Fabiani-2"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
