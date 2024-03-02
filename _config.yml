@@ -22,11 +22,11 @@ repository               : "gianlucafabiani/gianlucafabiani.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Gianluca Fabiani"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Naples"
-  employer         : "SSM"
+  bio              : "PhD student in Modelling and Engineering Risk and Complexity (MERC)"
+  location         : "Naples, Italy"
+  employer         : "Scuola Superiore Meridionale (SSM)"
   uri              : # URL
   email            : "gianluca.fabiani@unina.it" 
 
