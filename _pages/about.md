@@ -6,3 +6,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+This is Dr. Gianluca Fabiani home on the web!
