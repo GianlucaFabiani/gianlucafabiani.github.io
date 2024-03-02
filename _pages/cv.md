@@ -18,13 +18,12 @@ Education
 * Ph.D in Modelling and Engineering Risk and Complexity, at Scuola SUperiore Meridionale (SSM) (expected November 2024)
     * Supervisor: Professor Constantinos Siettos,
     * Co-Advisor: Professor Ioannis G. Kevrekidis
-
-This Ph.D. program in “Modelling and Engineering Risk and Complexity” covers Mathematics, Physics, Engineering and Science, providing the possibility of attending courses and seminars from world-renown experts on a variety of topics including:
-    * Complex systems, infrastructures and networks.
-    * Data analysis and machine learning.
-    * Reliability theory for uncertainty modelling.
-    * Systems and control theory.
-    * Risk Analysis and Risk management.
+    * This Ph.D. program in “Modelling and Engineering Risk and Complexity” covers Mathematics, Physics, Engineering and Science, providing the possibility of attending courses and seminars from world-renown experts on a variety of topics including:
+      * Complex systems, infrastructures and networks.
+      * Data analysis and machine learning.
+      * Reliability theory for uncertainty modelling.
+      * Systems and control theory.
+      * Risk Analysis and Risk management.
 * M.S. in Applied Mathematics (LM-40), Università degli Studi di Napoli Federico II, October 2020
     * Department of Mathematics and Applications Renato Caccioppoli
     * Final Mark: 110/110 cum laude.
@@ -40,8 +39,8 @@ This Ph.D. program in “Modelling and Engineering Risk and Complexity” covers
 
 Visiting Experiences
 ======
-* International Visiting Student at Dept. of Chemical and Biomolecular Engineering
-  * Johns Hopkins University(JHU)
+* International Visiting Student Johns Hopkins University (JHU)
+  * Dept. of Chemical and Biomolecular Engineering 
   * Supervisor: Prof. Ioannis G. Kevrekidis
   * 3 months from 03/2022 to 05/2022
   * 6 months from 02/2023 to 07/2023
