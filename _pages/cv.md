@@ -31,10 +31,10 @@ This Ph.D. program in “Modelling and Engineering Risk and Complexity” covers
     * Thesis: Learning Partial Differential Equations from Data with Machine Learning algorithms
     * Supervised by Professor Constantinos Siettos
 * B.S. in Mathematics (LM-35), Università degli Studi di Napoli Federico II, June 2018
-      * Department of Mathematics and Applications Renato Caccioppoli
-      * Final Mark: 104/110.
-      * Thesis:``Quantum harmonic oscillator"
-      * Supervised by Prof. Luigi Rosa
+    * Department of Mathematics and Applications Renato Caccioppoli
+    * Final Mark: 104/110.
+    * Thesis:``Quantum harmonic oscillator"
+    * Supervised by Prof. Luigi Rosa
 * High School Scientific Diploma - PNI, Liceo scientifico Niccolò Copernico, July 2013
     * Final Mark: 92/100
 
