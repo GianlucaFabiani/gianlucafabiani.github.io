@@ -9,39 +9,43 @@ redirect_from:
 
 {% include base_path %}
 
+Biography
+======
+Gianluca Fabiani holds a Bachelor’s Degree in Mathematics and a Master’s Degree in Applied Mathematics from the Department of Mathematics and Applications of the University of Naples Federico II. During his Master's Degree, the direction of his studies has focused on the numerical analysis, machine learning, statistics and mathematical modeling of complex dynamical systems. He graduated with honours, conducting his MSc Thesis entitled “Learning Partial Differential Equations from Data with Machine Learning algorithms" under the supervision of Prof. Constantinos Siettos. His research interests have found a natural continuation within the PhD program in Modeling and Engineering Risk and Complexity (MERC) at the Shool of Advances Studies of Naples (SSM).
+
 Education
 ======
 * Ph.D in Modelling and Engineering Risk and Complexity, at Scuola SUperiore Meridionale (SSM) (expected November 2024)
-* M.S. in Applied Mathematics, Università degli Studi di Napoli Federico II, October 2020
-* B.S. in Mathematics, Università degli Studi di Napoli Federico II, June 2018
-  
-Skills
+    Supervisor: Professor Constantinos Siettos,
+    Co-Advisor: Professor Ioannis G. Kevrekidis
+
+    This Ph.D. program in “Modelling and Engineering Risk and Complexity” covers Mathematics, Physics, Engineering and Science, providing the possibility of attending courses and seminars from world-renown experts on a variety of topics including:
+	    * Complex systems, infrastructures and networks.
+	    * Data analysis and machine learning.
+	    * Reliability theory for uncertainty modelling.
+	    * Systems and control theory.
+	    * Risk Analysis and Risk management.
+* M.S. in Applied Mathematics (LM-40), Università degli Studi di Napoli Federico II, October 2020
+    * Department of Mathematics and Applications Renato Caccioppoli
+    * Final Mark: 110/110 cum laude.
+    * Thesis: Learning Partial Differential Equations from Data with Machine Learning algorithms
+    * Supervised by Professor Constantinos Siettos
+* B.S. in Mathematics (LM-35), Università degli Studi di Napoli Federico II, June 2018
+      * Department of Mathematics and Applications Renato Caccioppoli
+      * Final Mark: 104/110.
+      * Thesis:``Quantum harmonic oscillator"
+      * Supervised by Prof. Luigi Rosa
+* High School Scientific Diploma - PNI, Liceo scientifico Niccolò Copernico, July 2013
+    * Final Mark: 92/100
+
+Visiting Experiences
 ======
-* Mathematics and Mathematical Reasoning
-
-* Complex Problem Solving  
-
-* Critical Thinking  
-
-* Active Learning
-  
-* Deductive and Inductive Reasoning — The ability to apply general rules to specific problems to produce answers that make sense.
-  
-* Information Ordering
-
-* Programming
-  * MATLAB
-  * Python
-    * TensorFlow
-    * Keras
-    * numpy
-    * others
-  * C
-  * Fortran
-
-* Latex
-
-* Microsoft Office 365
+* International Visiting Student at Dept. of Chemical and Biomolecular Engineering
+  Johns Hopkins University(JHU)
+  Supervisor: Prof. Ioannis G. Kevrekidis
+  3 month from 03/2022 to 05/2022
+  6 Month from 02/2023 to 07/2023
+  1 Month in 01/2024
     
 Publications
 ======
@@ -70,3 +74,32 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+
+Skills
+======
+* Mathematics and Mathematical Reasoning
+
+* Complex Problem Solving  
+
+* Critical Thinking  
+
+* Active Learning
+  
+* Deductive and Inductive Reasoning — The ability to apply general rules to specific problems to produce answers that make sense.
+  
+* Information Ordering
+
+* Programming
+  * MATLAB
+  * Python
+    * TensorFlow
+    * Keras
+    * numpy
+    * others
+  * C
+  * Fortran
+
+* Latex
+
+* Microsoft Office 365
