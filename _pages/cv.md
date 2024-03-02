@@ -49,18 +49,22 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Talks in International Conferences
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+
+Invited Speaker
+======
+June 23, 2023: Parsimonious Physics-informed Random Projection Neural Networks (RPNN) for solving Forward and Inverse Problems
+https://bpb-us-w2.wpmucdn.com/sites.brown.edu/dist/1/376/files/2023/09/Flyer_6.23.23_Gianluca-Fabiani-Scuola-Superiore-Meridionale-SSM-Naples-Italy.pdf
+
+Minisymposia Organization
+======
   
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
