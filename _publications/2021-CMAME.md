@@ -2,8 +2,8 @@
 title: "Extreme learning machine collocation for the numerical solution of elliptic PDEs with sharp gradients"
 collection: publications
 permalink: /publication/2021-CMAME
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+excerpt: 'This paper is about the solution of linear stationary PDEs with Random Projection Neural Networks'
+date: 2021-01-01
 venue: 'Computer Methods in Applied Mechanics and Engineering 387, 114188'
 paperurl: 'https://doi.org/10.1016/j.cma.2021.114188'
 citation: 'Calabrò, F., Fabiani, G., & Siettos, C. (2021). Extreme learning machine collocation for the numerical solution of elliptic PDEs with sharp gradients. Computer Methods in Applied Mechanics and Engineering, 387, 114188.'
