@@ -24,12 +24,12 @@ Programming in MATLAB, C, Fortran, Python, TensorFlow
 
 Research Topics
 =====
-Random Projection Neural Networks
-Machine Learning
-Neural Networks and Artificial Intelligence
-Numerical Analysis of Partial Differential Equations
-Complex Systems
-System Identificatio
-nNumerical Bifurcation Analysis
-Complex Networks
-Pattern Recognition
+1. Random Projection Neural Networks
+1. Machine Learning
+1. Neural Networks and Artificial Intelligence
+1. Numerical Analysis of Partial Differential Equations
+1. Complex Systems
+1. System Identification
+1. Numerical Bifurcation Analysis
+1. Complex Networks
+1. Pattern Recognition
