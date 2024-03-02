@@ -57,11 +57,13 @@ Talks in International Conferences
 
 Invited Speaker
 ======
-June 23, 2023: Parsimonious Physics-informed Random Projection Neural Networks (RPNN) for solving Forward and Inverse Problems
+* June 23, 2023: Parsimonious Physics-informed Random Projection Neural Networks (RPNN) for solving Forward and Inverse Problems
 https://bpb-us-w2.wpmucdn.com/sites.brown.edu/dist/1/376/files/2023/09/Flyer_6.23.23_Gianluca-Fabiani-Scuola-Superiore-Meridionale-SSM-Naples-Italy.pdf
 
 Minisymposia Organization
 ======
+* Dynamics Days Europe 2023
+  Physics-Informed Machine Learning for the solution of forward and inverse problems
   
 Teaching
 ======
