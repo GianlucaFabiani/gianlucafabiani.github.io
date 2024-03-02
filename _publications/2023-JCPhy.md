@@ -2,7 +2,7 @@
 title: "Discrete-time nonlinear feedback linearization via physics-informed machine learning"
 collection: publications
 permalink: /publication/2023-JCPhy
-excerpt: 'This paper is the one-step feedback linearization and control via PINNs'
+excerpt: 'This paper is about the one-step feedback linearization and control via PINNs'
 date: 2023-01-01
 venue: 'Journal of Computational Physics Volume 492, 1 November 2023, 112408'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S002199912300503X'
