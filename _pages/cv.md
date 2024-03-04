@@ -54,24 +54,25 @@ Research Activities
   * funded by the Bando FISR 2020 COVID, MUR
   * https://www.covid19uninafisr.com/; https://combatcovid19uninafisr.com/
     
-Publications
+Publications Impact 
 ======
-* Impact From ResearchGate (March 2024)
-  * Citations 117
-  * h-index 4
-  * Research Interest Score 169.0
-    * Research Interest Score is higher than 73% of ResearchGate members.
-    * Research Interest Score is higher than 97% of ResearchGate members who first published in 2020
-  * Total reads 2877
-  * Reccomendations 48
+From ResearchGate (March 2024)
+* Citations 117
+* h-index 4
+* Research Interest Score 169.0
+  * Research Interest Score is higher than 73% of ResearchGate members.
+  * Research Interest Score is higher than 97% of ResearchGate members who first published in 2020
+* Total reads 2877
+* Reccomendations 48
 
-* List of peer-reviewed
-
+List of peer-reviewed publications
+======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-* List of Preprints
+List of Preprints
+======
 
   
 Talks in International Conferences
