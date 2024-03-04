@@ -1,10 +1,10 @@
 ---
-title: "NSBA"
+title: "Numerical Solution and Bifurcation Analysis of nonlinear partial differential equations with extreme learning machines"
 collection: publications
 permalink: /publication/2021-Springer_JSC
-excerpt: ''
+excerpt: 'This paper is about the efficient solution of steady state PDE problem via Machine Learning'
 date: 2021-10-01
-venue: 'Journal'
+venue: 'Journal of Scientific Computing - Springer'
 paperurl: ''
 citation: ''
 ---
