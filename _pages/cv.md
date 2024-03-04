@@ -11,11 +11,12 @@ redirect_from:
 
 Biography
 ======
+Gianluca Fabiani is a PhD student in Modeling and Engineering Risk and Complexity (MERC) at Scuola Superiore Meridionale (SSM), Naples, Italy. Additionally, He have been recently a Visiting Student at the Department of Chemical and Biomolecular Engineering, Johns Hopkins University.
 Gianluca Fabiani holds a Bachelor’s Degree in Mathematics and a Master’s Degree in Applied Mathematics from the Department of Mathematics and Applications of the University of Naples Federico II. During his Master's Degree, the direction of his studies has focused on the numerical analysis, machine learning, statistics and mathematical modeling of complex dynamical systems. He graduated with honours, conducting his MSc Thesis entitled “Learning Partial Differential Equations from Data with Machine Learning algorithms" under the supervision of Prof. Constantinos Siettos. His research interests have found a natural continuation within the PhD program in Modeling and Engineering Risk and Complexity (MERC) at the Shool of Advances Studies of Naples (SSM).
 
-Education
-======
-* Ph.D in Modelling and Engineering Risk and Complexity, at Scuola SUperiore Meridionale (SSM) (expected November 2024)
+Current Position
+=====
+Ph.D. Student in Modelling and Engineering Risk and Complexity (MERC), at Scuola SUperiore Meridionale (SSM) (expected November 2024)
     * Supervisor: Professor Constantinos Siettos,
     * Co-Advisor: Professor Ioannis G. Kevrekidis
     * This Ph.D. program in “Modelling and Engineering Risk and Complexity” covers Mathematics, Physics, Engineering and Science, providing the possibility of attending courses and seminars from world-renown experts on a variety of topics including:
@@ -24,6 +25,9 @@ Education
       * Reliability theory for uncertainty modelling.
       * Systems and control theory.
       * Risk Analysis and Risk management.
+
+Education
+======
 * M.S. in Applied Mathematics (LM-40), Università degli Studi di Napoli Federico II, October 2020
     * Department of Mathematics and Applications Renato Caccioppoli
     * Final Mark: 110/110 cum laude.
@@ -45,12 +49,32 @@ Visiting Experiences
   * 3 months from 03/2022 to 05/2022
   * 6 months from 02/2023 to 07/2023
   * 1 months in 01/2024
+ 
+Research Activities
+=====
+* Team member of scientific project: multiscale COMputational Based Analysis and modeling of the Transmission network for the assessment and control of the COVID-19 Pandemic in Italy
+  * funded by the Bando FISR 2020 COVID, MUR
+  * https://www.covid19uninafisr.com/; https://combatcovid19uninafisr.com/
     
 Publications
 ======
+*Impact From ResearchGate (March 2024)
+  * Citations 117
+  * h-index 4
+  * Research Interest Score 169.0
+    * Research Interest Score is higher than 73% of ResearchGate members.
+    * Research Interest Score is higher than 97% of ResearchGate members who first published in 2020
+  * Total reads 2877
+  * Reccomendations 48
+
+* List of peer-reviewed
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+* List of Preprints
+
   
 Talks in International Conferences
 ======
