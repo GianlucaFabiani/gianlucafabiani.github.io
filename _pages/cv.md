@@ -56,9 +56,10 @@ Research Activities
     
 Publications Impact 
 ======
-From ResearchGate (March 2024)
-* Citations 117
+From ResearchGate and Google Scholar (Aggregate), updated up to March 2024
+* Citations 126
 * h-index 4
+* g-index 11
 * Research Interest Score 169.0
   * Research Interest Score is higher than 73% of ResearchGate members.
   * Research Interest Score is higher than 97% of ResearchGate members who first published in 2020
@@ -99,21 +100,22 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Peer-reviewing activity
+=====
+Referee for the following international journals:
+* Plos One
+* Nonlinear Dynamics
+* Journal of Applied and Computational Mathematics
+* Soft Computing
 
 Skills
 ======
 * Mathematics and Mathematical Reasoning
-
 * Complex Problem Solving  
-
 * Critical Thinking  
-
 * Active Learning
-  
 * Deductive and Inductive Reasoning — The ability to apply general rules to specific problems to produce answers that make sense.
-  
 * Information Ordering
-
 * Programming
   * MATLAB
   * Python
@@ -123,7 +125,5 @@ Skills
     * others
   * C
   * Fortran
-
 * Latex
-
 * Microsoft Office 365
