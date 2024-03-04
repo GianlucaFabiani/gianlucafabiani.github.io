@@ -43,9 +43,7 @@ Education
 
 Visiting Experiences
 ======
-* International Visiting Student Johns Hopkins University (JHU)
-  * Dept. of Chemical and Biomolecular Engineering 
-  * Supervisor: Prof. Ioannis G. Kevrekidis
+* International Visiting Student at Dept. of Chemical and Biomolecular Engineering, Johns Hopkins University (JHU), Supervisor: Prof. Ioannis G. Kevrekidis
   * 3 months from 03/2022 to 05/2022
   * 6 months from 02/2023 to 07/2023
   * 1 months in 01/2024
@@ -58,7 +56,7 @@ Research Activities
     
 Publications
 ======
-*Impact From ResearchGate (March 2024)
+* Impact From ResearchGate (March 2024)
   * Citations 117
   * h-index 4
   * Research Interest Score 169.0
