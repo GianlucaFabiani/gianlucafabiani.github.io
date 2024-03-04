@@ -11,11 +11,11 @@ citation: 'Calabrò, F., Fabiani, G., & Siettos, C. (2021). Extreme learning mac
 
 Highlights:
 =====
-*Collocation with Extreme Machine Learning networks for elliptic pdes is considered.
-*The proposed approach does not require the training of the network.
-*The underlying space is constructed by fixing the internal weights and biases.
-*The proposed method is tested on benchmark problems, also with steep gradients.
-*The proposed method is efficient and significantly reduces the computational costs.
+* Collocation with Extreme Machine Learning networks for elliptic pdes is considered.
+* The proposed approach does not require the training of the network.
+* The underlying space is constructed by fixing the internal weights and biases.
+* The proposed method is tested on benchmark problems, also with steep gradients.
+* The proposed method is efficient and significantly reduces the computational costs.
 
 
 Abstract
