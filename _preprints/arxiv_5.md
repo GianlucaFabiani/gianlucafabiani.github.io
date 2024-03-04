@@ -5,7 +5,7 @@ permalink: /preprint/arxiv_5
 excerpt: 'This preprint is about the existence, uniqueness and exponential convergence of RPNN of best approximation.'
 date: 2024-02-17
 venue: 'Arxiv'
-paperurl: 'http://arxiv.org/abs/2402.11397
+paperurl: 'http://arxiv.org/abs/2402.11397'
 citation: 'Fabiani, G. (2024). Random Projection Neural Networks of Best Approximation: Convergence theory and practical applications. arXiv preprint arXiv:2402.11397.'
 ---
 
