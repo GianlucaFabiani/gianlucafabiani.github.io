@@ -1,5 +1,5 @@
 ---
-title: "Random Projection Neural Networks of Best Approximation: Convergence theory and practical applications"
+title: "Random Projection Neural Networks of Best Approximation Convergence theory and practical applications"
 collection: preprints
 permalink: /preprint/arxiv_5
 excerpt: 'This preprint is about the existence, uniqueness and exponential convergence of RPNN of best approximation.'
