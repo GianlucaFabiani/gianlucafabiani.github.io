@@ -1,12 +1,12 @@
 ---
-title: "Numerical solution and bifurcation analysis of nonlinear partial differential equations with extreme learning machines"
+title: ""
 collection: publications
-permalink: /publication/2021-Springer-JSC.md
-excerpt: 'This paper is about the solution of Nonlinear parametric PDEs and the construction of bifurcation diagrams via Random Projection Neural Networks'
+permalink: /publication/2021-Springer_JSC
+excerpt: ''
 date: 2021-10-01
-venue: 'Journal of Scientific Computing - Springer'
-paperurl: 'http://link.springer.com/article/10.1007/s10915-021-01650-5'
-citation: 'Fabiani, G., Calabrò, F., Russo, L., & Siettos, C. (2021). Numerical solution and bifurcation analysis of nonlinear partial differential equations with extreme learning machines. Journal of Scientific Computing, 89, 1-35.'
+venue: 'Journal'
+paperurl: ''
+citation: ''
 ---
 
 Abstract
