@@ -5,7 +5,7 @@ permalink: /publication/2021-Springer_JSC
 excerpt: 'This paper is about the efficient solution of steady state PDE problem via Machine Learning'
 date: 2021-10-01
 venue: 'Journal of Scientific Computing - Springer'
-paperurl: ''
+paperurl: 'https://link.springer.com/article/10.1007/s10915-021-01650-5'
 citation: ''
 ---
 
