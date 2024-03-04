@@ -6,7 +6,7 @@ excerpt: 'This paper is about the efficient solution of steady state PDE problem
 date: 2021-10-01
 venue: 'Journal of Scientific Computing - Springer'
 paperurl: 'https://link.springer.com/article/10.1007/s10915-021-01650-5'
-citation: ''
+citation: 'Fabiani, G., Calabrò, F., Russo, L., & Siettos, C. (2021). Numerical solution and bifurcation analysis of nonlinear partial differential equations with extreme learning machines. Journal of Scientific Computing, 89, 1-35.'
 ---
 
 Abstract
