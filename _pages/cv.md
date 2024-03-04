@@ -73,7 +73,9 @@ List of peer-reviewed publications
 
 List of Preprints
 ======
-
+  <ul>{% for post in site.preprints reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Talks in International Conferences
 ======
