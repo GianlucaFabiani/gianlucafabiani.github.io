@@ -1,8 +1,8 @@
 ---
 title: "Numerical solution and bifurcation analysis of nonlinear partial differential equations with extreme learning machines"
 collection: publications
-permalink: /publication/2021-NSBA-Springer-JSC.md
-excerpt: 'This paper is the solution of Nonlinear parametric PDEs and the construction of bifurcation diagrams via Random Projection Neural Networks'
+permalink: /publication/2021-Springer-JSC.md
+excerpt: 'This paper is about the solution of Nonlinear parametric PDEs and the construction of bifurcation diagrams via Random Projection Neural Networks'
 date: 2021-10-01
 venue: 'Journal of Scientific Computing - Springer'
 paperurl: 'https://link.springer.com/article/10.1007/s10915-021-01650-5'
