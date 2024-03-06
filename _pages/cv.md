@@ -107,6 +107,7 @@ Referee for the following international journals:
 * Nonlinear Dynamics
 * Journal of Applied and Computational Mathematics
 * Soft Computing
+* Multibody System Dynamics
 
 Skills
 ======
