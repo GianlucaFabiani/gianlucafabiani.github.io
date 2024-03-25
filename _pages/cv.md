@@ -128,3 +128,8 @@ Skills
   * Fortran
 * Latex
 * Microsoft Office 365
+
+Awards
+=====
+*SIAM Student Travel Award - Awarded May 2023 for SIAM DS23 conference
+*Kovalevskaya Grant for ICM 2022 - Awarded July 2022
