@@ -56,14 +56,14 @@ Research Activities
     
 Publications Impact 
 ======
-From ResearchGate and Google Scholar (Aggregate), updated up to March 2024
-* Citations 126
+From ResearchGate and Google Scholar (Aggregate), updated up to March 25, 2024
+* Citations 131
 * h-index 4
 * g-index 11
-* Research Interest Score 169.0
+* Research Interest Score 172.1
   * Research Interest Score is higher than 73% of ResearchGate members.
   * Research Interest Score is higher than 97% of ResearchGate members who first published in 2020
-* Total reads 2877
+* Total reads 2933
 * Reccomendations 48
 
 List of peer-reviewed publications
