@@ -115,7 +115,7 @@ Skills
 * Complex Problem Solving  
 * Critical Thinking  
 * Active Learning
-* Deductive and Inductive Reasoning — The ability to apply general rules to specific problems to produce answers that make sense.
+* Deductive and Inductive Reasoning
 * Information Ordering
 * Programming
   * MATLAB
