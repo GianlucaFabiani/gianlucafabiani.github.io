@@ -19,7 +19,8 @@ Current Position
 Ph.D. Student in Modelling and Engineering Risk and Complexity (MERC), at Scuola SUperiore Meridionale (SSM) (expected November 2024)
 * Supervisor: Professor Constantinos Siettos,
 * Co-Advisor: Professor Ioannis G. Kevrekidis
-* This Ph.D. program in “Modelling and Engineering Risk and Complexity” covers Mathematics, Physics, Engineering and Science, providing the possibility of attending courses and seminars from world-renown experts on a variety of topics including:
+* Thesis Project: Machine Learning-based Modelling and Numerical Analysis of the emergent dynamics of phase field models
+* This Ph.D. program in MERC covers Mathematics, Physics, Engineering and Science, providing the possibility of attending courses and seminars from world-renown experts on a variety of topics including:
     * Complex systems, infrastructures and networks.
     * Data analysis and machine learning.
     * Reliability theory for uncertainty modelling.
