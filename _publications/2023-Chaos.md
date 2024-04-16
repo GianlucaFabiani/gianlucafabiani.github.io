@@ -1,4 +1,5 @@
----title: "Parsimonious physics-informed random projection neural networks for initial value problems of ODEs and index-1 DAEs"
+---
+title: "Parsimonious physics-informed random projection neural networks for initial value problems of ODEs and index-1 DAEs"
 collection: publications
 permalink: /publication/2023-Chaos
 excerpt: 'This paper was awarded with an Editor's Pick badge. It is about the solution of stiff system of ODEs and DAEs (including PDEs) via time-adaptive Random Projection Neural Networks.'
