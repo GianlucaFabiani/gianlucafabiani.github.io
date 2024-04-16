@@ -9,6 +9,7 @@ paperurl: 'https://pubs.aip.org/aip/cha/article-abstract/33/4/043128/2878586/Par
 citation: 'Fabiani, G., Galaris, E., Russo, L., & Siettos, C. (2023). Parsimonious physics-informed random projection neural networks for initial value problems of ODEs and index-1 DAEs. Chaos: An Interdisciplinary Journal of Nonlinear Science, 33(4).'
 ---
 
+
 Editor's Pick
 ======
 
