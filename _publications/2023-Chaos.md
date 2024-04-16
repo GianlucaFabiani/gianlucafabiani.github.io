@@ -6,8 +6,7 @@ excerpt: 'This paper was awarded with an Editor's Pick badge. It is about the so
 date: 2023-01-01
 venue: 'Chaos: An Interdisciplinary Journal of Nonlinear Science, 33(4)'
 paperurl: 'https://pubs.aip.org/aip/cha/article-abstract/33/4/043128/2878586/Parsimonious-physics-informed-random-projection?redirectedFrom=fulltext'
-citation: 'Fabiani, G., Galaris, E., Russo, L., & Siettos, C. (2023). Parsimonious physics-informed random projection neural networks for initial value problems of ODEs and index-1 DAEs. Chaos: An Interdisciplinary Journal of Nonlinear Science, 33(4).
-'
+citation: 'Fabiani, G., Galaris, E., Russo, L., & Siettos, C. (2023). Parsimonious physics-informed random projection neural networks for initial value problems of ODEs and index-1 DAEs. Chaos: An Interdisciplinary Journal of Nonlinear Science, 33(4).'
 ---
 
 Editor's Pick
