@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About me"
+title: "This is Dr. Gianluca Fabiani home on the web!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is Dr. Gianluca Fabiani home on the web!
-======
 "Exploring the intricate interplay of intelligence, numerics and patterns in the fabric of complexity"
 
 ![screenshot](background_github2.jpg)
