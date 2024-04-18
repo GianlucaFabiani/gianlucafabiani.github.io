@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-"Exploring the intricate interplay of intelligence, numerics and patterns in the fabric of complexity"
-
 ![screenshot](background_github2.jpg)
+
+"Exploring the intricate interplay of intelligence, numerics and patterns in the fabric of complexity"
 
 Introduction
 ======
