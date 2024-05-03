@@ -14,6 +14,7 @@ redirect_from:
 Research Group Photo
 ======
 ![screenshot](DDE_group_foto.jpeg)
+From left to right: Dr. Dimitrios Patsatzis, Hector Vargas Alvarez, Me, Prof. Constantinos Siettos, Dr. Lucia Russo, Prof. Ioannis Kevrekidis, Prof. Felix Dietrich, Dr. Nikolaos Evangelou
 
 Introduction
 ======
