@@ -11,6 +11,10 @@ redirect_from:
 
 "Exploring the intricate interplay of intelligence, numerics and patterns in the fabric of complexity"
 
+Research Group Photo
+======
+![screenshot](DDE_group_foto.jpeg)
+
 Introduction
 ======
 I am a PhD student in Modeling and Engineering Risk and Complexity (MERC) at Scuola Superiore Meridionale (SSM), Naples, Italy. Additionally, I recently have been a Visiting Student at Johns Hopkins University. I also got a Master’s Degree in Applied Mathematics at Federico II University. My research interests concern numerical analysis, machine learning, bifurcation analysis and mathematical modeling with particular emphasis on problems that arise in multiscale and multiphase complex systems.
