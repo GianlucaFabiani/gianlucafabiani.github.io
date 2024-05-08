@@ -2,7 +2,7 @@
 title: "Slow invariant manifolds of singularly perturbed systems via physics-informed machine learning"
 collection: publications
 permalink: /publication/2024-SIAM_SISC
-excerpt: 'This preprint is about the solution of invariance equation associated with SIM via PINNs'
+excerpt: 'This paper is about the solution of invariance equation associated with SIM via PINNs'
 date: 2024-03-20
 venue: 'SIAM Journal on Scientific Computing'
 paperurl: 'https://arxiv.org/abs/2309.07946'
