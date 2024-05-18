@@ -15,7 +15,8 @@ tags:
   - Euler-Maruyama SDE Networks
 ---
 
-[Ever wondered what triggers sudden, dramatic shifts in complex systems? Our research takes a thrilling Machine Learning adventure to unravel the mysteries of "tipping points" - those critical junctures where small changes lead to big, often irreversible consequences.](https://doi.org/10.1038/s41467-024-48024-7)
+[Ever wondered what triggers sudden, dramatic shifts in complex systems? Our research takes a thrilling Machine Learning adventure to unravel the mysteries of "tipping points" - those critical junctures where small changes lead to big, often irreversible consequences.](https://communities.springernature.com/posts/machine-learns-the-secrets-of-tipping-points)
+[Read the paper: Nature Communications 15, 4117](https://doi.org/10.1038/s41467-024-48024-7)
 
 Intro
 =====
