@@ -25,12 +25,15 @@ Imagine a financial market teetering on the brink of a bubble or crises,  an - a
 This is where our research steps in. We propose a groundbreaking framework that harnesses the power of Machine Learning to analyze tipping points in large-scale ABMs. Here's the magic: we extract low-dimensional "hidden patterns" from the data, allowing us to develop efficient models that capture the key dynamics near tipping points.
 
 
+
+
 The Big Picture: Our approach offers several benefits
 =====
 - Reduced Complexity: By focusing on the core dynamics, we significantly decrease computational costs compared to traditional methods.
 - Unveiling Secrets: We identify the underlying mechanisms driving tipping points, providing valuable insights for prevention or mitigation.
 - Quantifying the Unlikely: We calculate the probability of rare, catastrophic events triggered near tipping points.
 
+![screenshot](featured_image.jpg)
 
 Description
 ======
@@ -59,6 +62,7 @@ We compare the advantages and disadvantages of various surrogate models and the 
 
 Methodology Insights
 -------
+![screenshot](Figure4_ABM_workflow-1.jpg)
 
 Given high-dimensional spatio-temporal trajectory data from ABM simulations, the framework involves the following steps :
 
@@ -74,6 +78,9 @@ Neural Networks appraoches for learning the dynamics
 ---------
 
 Imagine a powerful learning tool inspired by the brain! This tool, called a neural network, can be used to create simplified models that capture the essence of complex natural phenomena.
+
+![screenshot](Figure5_NN_schematics.jpg)
+_Schematic of the neural networks used for constructive machine learning assisted surrogates. (a) Convolutional Neural Network (CNN). The input is constructed by convolution operations, i.e. a combination of sliding Finite Difference (FD) stencils, and, integral operators, for learning mesoscopic models in the form of Integro-PDEs; the inputs of the Integro-PDE are local and/or global features. (b) A schematic of the neural network architecture, inspired by numerical stochastic integrators, used to construct macroscopic models in the form of mean-field SDEs._
 
 Our investigation into complex natural phenomena utilizes two key neural network architectures:
 
