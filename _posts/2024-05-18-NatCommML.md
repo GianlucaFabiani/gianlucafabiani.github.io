@@ -1,7 +1,7 @@
 ---
 title: 'Machine Learns the Secrets of Tipping Points'
 date: 2024-05-18
-permalink: /posts/2012/08/NatCommML/
+permalink: /posts/2024/05/NatCommML.md/
 tags:
   - Machine Learning
   - Numerical Analysis
