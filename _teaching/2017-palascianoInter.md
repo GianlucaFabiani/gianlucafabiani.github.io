@@ -1,8 +1,11 @@
+---
+title: "Didactic training Internship"
+collection: teaching
+type: "Medium school"
+permalink: /teaching/2017-palascianoInter
+venue: "ICS Palasciano - 72° circolo didattico, Naples, Italy"
+date: 2017-04-01
+location: "Naples, Italy"
+---
 
-
-
-
-{04/2017 - 06/2017}
-{Didactic training Internship}
-{ICS Palasciano - 72° circolo didattico \newline Naples, Italy}
-{Mathematics teaching - Management and organization of a training project, Team working and Involvement of the class group}
+Mathematics teaching - Management and organization of a training project, Team working and Involvement of the class group
