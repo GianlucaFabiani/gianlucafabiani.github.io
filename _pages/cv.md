@@ -95,7 +95,7 @@ Minisymposia Organization
 * Dynamics Days Europe 2023
   Physics-Informed Machine Learning for the solution of forward and inverse problems
   
-Teaching
+Teaching (Assistant and Didactic Internship)
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
