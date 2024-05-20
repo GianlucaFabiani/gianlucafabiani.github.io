@@ -135,3 +135,4 @@ Awards
 * Chaos Editor's Pick badge award - Awarded April 2023 for the paper "Parsimonious physics-informed random projection neural networks for initial value problems of ODEs and index-1 DAEs"
 * SIAM Student Travel Award - Awarded May 2023 for SIAM DS23 conference
 * Kovalevskaya Grant for ICM 2022 - Awarded July 2022
+* Above 90th percentile of Master's degree thesis of 2019-2020, merit ranking in Scientific School MM.FF.NN., University of Naples, Federico II
