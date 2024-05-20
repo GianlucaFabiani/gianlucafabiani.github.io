@@ -7,3 +7,5 @@ venue: "University Scuola Superiore Meridionale, Modelling Engineering Risk and 
 date: 2023-11-01
 location: "Naples, Italy"
 ---
+
+24 hours, Frontal lessons, Cooperative learning laboratories and final project
