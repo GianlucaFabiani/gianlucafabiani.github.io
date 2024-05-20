@@ -135,4 +135,11 @@ Awards
 * Chaos Editor's Pick badge award - Awarded April 2023 for the paper "Parsimonious physics-informed random projection neural networks for initial value problems of ODEs and index-1 DAEs"
 * SIAM Student Travel Award - Awarded May 2023 for SIAM DS23 conference
 * Kovalevskaya Grant for ICM 2022 - Awarded July 2022
+* Best presentation at the conference Nonlinear Science and Complexity 2022 (NSC22).Title:"Identifying the emergent dynamics of Agent Based Models: Coarse scale integro-PDEs from fine scale simulations". In the Mynisimposium: "Multiscale Modelling and Numerical analysis of Complex and Large scale Dynamical Systems"
 * Above 90th percentile of Master's degree thesis of 2019-2020, merit ranking in Scientific School MM.FF.NN., University of Naples, Federico II
+* First place, for the CAS category, Bridge Student Sports Games, XIX Camp del Bridge a Scuola, Pisciotta (Palinuro)- July 2013
+
+Others
+====
+European Driving license B
+
