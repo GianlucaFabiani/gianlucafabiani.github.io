@@ -3,10 +3,10 @@ title: "Task-oriented machine learning surrogates for tipping points of agent-ba
 collection: publications
 permalink: /publication/2024-NatureComm
 excerpt: 'This paper is about the multiscale inverse problem of High-dimensionale Agent based models via FNNs and RPNNs. For the data-driven reconstruction of bifurcation diagrams and rare event analysis. We learn both Integro-PDEs and low-dimensional SDEs (ML surrogates.)'
-date: 2024-03-05
-venue: 'Nature Communications'
-paperurl: '10.1038/s41467-024-48024-7'
-citation: 'Fabiani, G., Evangelou, N., Cui, T., Bello-Rivas, J. M., Martin-Linares, C. P., Siettos, C., & Kevrekidis, I. G. (2023). Task-oriented Machine learning assisted surrogates for tipping points of agent-based models, Nature Communications, 2024'
+date: 2024-05-15
+venue: 'Nature Communications 15'
+paperurl: 'https://doi.org/10.1038/s41467-024-48024-7'
+citation: 'Fabiani, G., Evangelou, N., Cui, T. et al. Task-oriented machine learning surrogates for tipping points of agent-based models. Nat Commun 15, 4117 (2024). https://doi.org/10.1038/s41467-024-48024-7'
 ---
 
 Abstract
