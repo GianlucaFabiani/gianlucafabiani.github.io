@@ -62,7 +62,7 @@ We compare the advantages and disadvantages of various surrogate models and the 
 
 Methodology Insights
 -------
-![screenshot](images/Figure4_ABM_workflow-1.png)
+![screenshot](images/Figure4_ABM_workflow-1.jpeg)
 
 Given high-dimensional spatio-temporal trajectory data from ABM simulations, the framework involves the following steps :
 
@@ -79,7 +79,7 @@ Neural Networks appraoches for learning the dynamics
 
 Imagine a powerful learning tool inspired by the brain! This tool, called a neural network, can be used to create simplified models that capture the essence of complex natural phenomena.
 
-![screenshot](images/Figure5_NN_schematics.png)
+![screenshot](images/Figure5_NN_schematics.jpeg)
 _Schematic of the neural networks used for constructive machine learning assisted surrogates. (a) Convolutional Neural Network (CNN). The input is constructed by convolution operations, i.e. a combination of sliding Finite Difference (FD) stencils, and, integral operators, for learning mesoscopic models in the form of Integro-PDEs; the inputs of the Integro-PDE are local and/or global features. (b) A schematic of the neural network architecture, inspired by numerical stochastic integrators, used to construct macroscopic models in the form of mean-field SDEs._
 
 Our investigation into complex natural phenomena utilizes two key neural network architectures:
