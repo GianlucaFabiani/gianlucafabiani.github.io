@@ -44,7 +44,7 @@ The developed code is available in a [Gitlab repository](https://gitlab.com/nico
 
 Lab Photo at DDE23 Conference
 ======
-![screenshot](background_github2.jpg)
+![screenshot](DDE_group_foto.jpeg)
 _The Kevrekidis and Siettos research groups at a recent conference (including collaborators not pictured) - where the final revisions for this paper were completed!_
 
 Background
