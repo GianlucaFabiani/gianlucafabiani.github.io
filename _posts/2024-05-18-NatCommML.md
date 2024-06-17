@@ -18,6 +18,8 @@ tags:
 Ever wondered what triggers sudden, dramatic shifts in complex systems? Our research takes a thrilling Machine Learning adventure to unravel the mysteries of "tipping points" - those critical junctures where small changes lead to big, often irreversible consequences.
 Read the paper: [Nature Communications 15, 4117](https://doi.org/10.1038/s41467-024-48024-7)
 
+Full blog post at [Springer Nature Research Communities](https://communities.springernature.com/posts/ai-learns-the-secrets-of-tipping-points)
+
 Intro
 =====
 Imagine a financial market teetering on the brink of a bubble or crises,  an - apparently drowsy- disease outbreak escalating on a social network or a seemingly stable climate tipping into a cascade of extremes: scorching heat, vanishing water, and rising seas. These scenarios highlight the challenges of studying tipping points in complex systems. Traditional methods, like high-fidelity agent-based models (ABMs), offer valuable insights, but their computational demands can be a real roadblock.
