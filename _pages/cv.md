@@ -57,15 +57,16 @@ Research Activities
     
 Publications Impact 
 ======
-From ResearchGate and Google Scholar (Aggregate), updated up to March 25, 2024
-* Citations 131
-* h-index 4
+From ResearchGate and Google Scholar (Aggregate), updated up to June 17, 2024
+* Citations 141
+* h-index 5
 * g-index 11
-* Research Interest Score 172.1
-  * Research Interest Score is higher than 73% of ResearchGate members.
+* Research Interest Score 193.3
+  * Research Interest Score is higher than 74% of ResearchGate members.
+  * Research Interest Score is higher than 76% of researchers with work related to Applied Mathematics
   * Research Interest Score is higher than 97% of ResearchGate members who first published in 2020
-* Total reads 2933
-* Reccomendations 48
+* Total reads 3250
+* Reccomendations 55
 
 List of peer-reviewed publications
 ======
@@ -132,6 +133,7 @@ Skills
 
 Awards
 =====
+* Featured Article in Nature Communication award - Awarded May 2024 for the paper "Task-oriented machine learning surrogates for tipping points of agent-based models" in the collection "Applied physics and mathematics"
 * Chaos Editor's Pick badge award - Awarded April 2023 for the paper "Parsimonious physics-informed random projection neural networks for initial value problems of ODEs and index-1 DAEs"
 * SIAM Student Travel Award - Awarded May 2023 for SIAM DS23 conference
 * Kovalevskaya Grant for ICM 2022 - Awarded July 2022
