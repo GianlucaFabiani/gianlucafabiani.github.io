@@ -19,7 +19,7 @@ New paper appeared in [**Nature Communications 15**](https://www.nature.com/arti
 - Part of Featured Nat Comm collections in both [(Focus: AI and machine learning)](https://www.nature.com/collections/ceiajcdbeb) and [(Focus: Applied physics and mathematics)](https://www.nature.com/collections/hjhbgijcei)
 
 Recent publications in
-====
+---
 - [ SIAM Journal on Scientific Computing 46 (4)](https://epubs.siam.org/doi/abs/10.1137/23M1602991), C297-C322, Slow invariant manifolds of singularly perturbed systems via physics-informed machine learning, D Patsatzis, G Fabiani, L Russo, C Siettos
 -  [Chaos, Solitons & Fractals 186, 115215](https://www.sciencedirect.com/science/article/pii/S0960077924007677), Nonlinear discrete-time observers with physics-informed neural networks HV Alvarez, G Fabiani, N Kazantzis, IG Kevrekidis, C Siettos
 -  [Journal of Physical Oceanography 54 (7)](https://journals.ametsoc.org/view/journals/phoc/54/7/JPO-D-23-0161.1.xml), 1389-1409, Tipping points in overturning circulation mediated by ocean mixing and the configuration and magnitude of the hydrological cycle: A simple model, A Gnanadesikan, G Fabiani, J Liu, R Gelderloos, GJ Brett, Y Kevrekidis, ...
