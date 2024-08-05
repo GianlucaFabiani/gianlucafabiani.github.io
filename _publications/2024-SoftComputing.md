@@ -3,9 +3,9 @@ title: "On the accuracy of interpolation based on single-layer artificial neural
 collection: publications
 permalink: /publication/2024-SoftComputing
 excerpt: 'This paper is about the interpolation of functions on the interpolation accuracy of Random featured Neural Networks, with particular focus on the possibility to use random grids, even for functions presenting the Runge-Phenomenon.'
-date: 2024-05-08
+date: 2024-07-29
 venue: 'Soft Computing'
-paperurl: 'https://arxiv.org/pdf/2308.10720'
+paperurl: 'https://doi.org/10.1007/s00500-024-09918-2'
 citation: 'Auricchio, F., Belardo, M. R., Calabrò, F., Fabiani, G. & Pascaner, A. F. (2024). On the accuracy of interpolation based on single-layer artificial neural networks. Soft Computing'
 ---
 
