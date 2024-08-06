@@ -2,7 +2,7 @@
 title: "Task-oriented machine learning surrogates for tipping points of agent-based models"
 collection: publications
 permalink: /publication/2024-NatureComm
-excerpt: 'This paper is about the multiscale inverse problem of High-dimensionale Agent based models via FNNs and RPNNs. For the data-driven reconstruction of bifurcation diagrams and rare event analysis. We learn both Integro-PDEs and low-dimensional SDEs (ML surrogates.)'
+excerpt: 'This paper is about the multiscale inverse problem of High-dimensional Agent based models via FNNs and RPNNs. For the data-driven reconstruction of bifurcation diagrams and rare event analysis. We learn both Integro-PDEs and low-dimensional SDEs (ML surrogates.)'
 date: 2024-05-15
 venue: 'Nature Communications 15'
 paperurl: 'https://doi.org/10.1038/s41467-024-48024-7'
