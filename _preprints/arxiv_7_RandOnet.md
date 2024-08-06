@@ -11,7 +11,7 @@ citation: 'Fabiani, G., Kevrekidis, I. G., Siettos, C., & Yannacopoulos, A. N. (
 
 Graphical Abstract
 =====
-<img src="https://raw.githubusercontent.com/GianlucaFabiani/gianlucafabiani.github.io/master/images/Graphical_Abstract_RandOnet_details_big_colored_page-0001.jpg" width="500" />
+<img src="https://raw.githubusercontent.com/GianlucaFabiani/gianlucafabiani.github.io/master/images/Graphical_Abstract_RandOnet_details_big_colored_page-0001.jpg" width="1000" />
 
 Abstract
 =====
