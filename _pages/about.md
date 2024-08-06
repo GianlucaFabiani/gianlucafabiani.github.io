@@ -22,9 +22,11 @@ New paper appeared in [**Nature Communications 15**](https://www.nature.com/arti
 
 <p float="left">
   <a href="https://www.nature.com/collections/ceiajcdbeb">
-  <img src="https://gianlucafabiani.github.io/FeaturedNatComm.png" width="350"/>
+    <img src="https://gianlucafabiani.github.io/FeaturedNatComm.png" width="350"/>
   </a>
-  <img src="https://gianlucafabiani.github.io/NatCommFeat_AppPhyMath.jpg" width="350"/>
+  <a href="https://www.nature.com/collections/hjhbgijcei">
+    <img src="https://gianlucafabiani.github.io/NatCommFeat_AppPhyMath.jpg" width="350"/>
+  </a>
 </p>
 
 - Check out also the [behind the paper blog post](https://communities.springernature.com/posts/machine-learns-the-secrets-of-tipping-points) for a soft and accessible dive
