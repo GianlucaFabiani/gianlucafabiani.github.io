@@ -13,14 +13,22 @@ redirect_from:
 
 Breaking News
 ======
-<img src="https://raw.githubusercontent.com/GianlucaFabiani/gianlucafabiani.github.io/master/NCOMMS-23-51160A.png" width="450">
 
 New paper appeared in [**Nature Communications 15**](https://www.nature.com/articles/s41467-024-48024-7):
 - Fabiani, G., Evangelou, N., Cui, T. et al. [Task-oriented machine learning surrogates for tipping points of agent-based models](https://doi.org/10.1038/s41467-024-48024-7). Nat Commun 15, 4117 (2024).
+<p float="center">
+<img src="https://raw.githubusercontent.com/GianlucaFabiani/gianlucafabiani.github.io/master/NCOMMS-23-51160A.png" width="350" />
+</p>
+
 - Check out also the [behind the paper blog post](https://communities.springernature.com/posts/machine-learns-the-secrets-of-tipping-points) for a soft and accessible dive
 - Part of Featured Nat Comm collections in both [(Focus: AI and machine learning)](https://www.nature.com/collections/ceiajcdbeb) and [(Focus: Applied physics and mathematics)](https://www.nature.com/collections/hjhbgijcei)
 
-[<img src="https://gianlucafabiani.github.io/FeaturedNatComm.png" width="450">](https://www.nature.com/collections/ceiajcdbeb) [<img src="https://gianlucafabiani.github.io/NatCommFeat_AppPhyMath.jpg" width="450">](https://www.nature.com/collections/hjhbgijcei)
+<p float="left">
+  [<img src="https://gianlucafabiani.github.io/FeaturedNatComm.png" width="350" />](https://www.nature.com/collections/ceiajcdbeb)
+  [<img src="https://gianlucafabiani.github.io/NatCommFeat_AppPhyMath.jpg" width="350" />](https://www.nature.com/collections/hjhbgijcei)
+</p>
+
+
 
 
 Recent publications in
