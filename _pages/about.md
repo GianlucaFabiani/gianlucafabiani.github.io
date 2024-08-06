@@ -21,7 +21,9 @@ New paper appeared in [**Nature Communications 15**](https://www.nature.com/arti
 - Part of Featured Nat Comm collections in both [(Focus: AI and machine learning)](https://www.nature.com/collections/ceiajcdbeb) and [(Focus: Applied physics and mathematics)](https://www.nature.com/collections/hjhbgijcei)
 
 <p float="left">
-  [<img src="https://gianlucafabiani.github.io/FeaturedNatComm.png" width="350"/>](https://www.nature.com/collections/ceiajcdbeb)
+  <a href="https://www.nature.com/collections/ceiajcdbeb">
+  <img src="https://gianlucafabiani.github.io/FeaturedNatComm.png" width="350"/>
+  </a>
   <img src="https://gianlucafabiani.github.io/NatCommFeat_AppPhyMath.jpg" width="350"/>
 </p>
 
