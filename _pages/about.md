@@ -21,12 +21,12 @@ New paper appeared in [**Nature Communications 15**](https://www.nature.com/arti
 - Part of Featured Nat Comm collections in both [(Focus: AI and machine learning)](https://www.nature.com/collections/ceiajcdbeb) and [(Focus: Applied physics and mathematics)](https://www.nature.com/collections/hjhbgijcei)
 
 <p float="left">
-  <img src="https://gianlucafabiani.github.io/FeaturedNatComm.png" width="350"/>
+  [<img src="https://gianlucafabiani.github.io/FeaturedNatComm.png" width="350"/>](https://www.nature.com/collections/ceiajcdbeb)
   <img src="https://gianlucafabiani.github.io/NatCommFeat_AppPhyMath.jpg" width="350"/>
 </p>
 
 - Check out also the [behind the paper blog post](https://communities.springernature.com/posts/machine-learns-the-secrets-of-tipping-points) for a soft and accessible dive
-[<img src="https://raw.githubusercontent.com/GianlucaFabiani/gianlucafabiani.github.io/master/NCOMMS-23-51160A.png" width="350" />](https://communities.springernature.com/posts/machine-learns-the-secrets-of-tipping-points)
+[<img src="https://raw.githubusercontent.com/GianlucaFabiani/gianlucafabiani.github.io/master/NCOMMS-23-51160A.png" width="500" />](https://communities.springernature.com/posts/machine-learns-the-secrets-of-tipping-points)
 
 
 Recent publications in
