@@ -57,17 +57,28 @@ Research Activities
     
 Publications Impact 
 ======
-From ResearchGate and Google Scholar (Aggregate), updated up to August 06, 2024
-* Citations 168 (max between RG and GS)
-* h-index 5
-* g-index 12 (Harzing's publish or perish)
-* Research Interest Score 214.6 (RG)
-  * Research Interest Score is higher than 76% of ResearchGate members.
-  * Research Interest Score is higher than 77% of researchers with work related to Applied Mathematics
-  * Research Interest Score is higher than 85% of researchers with work related to Artificial Neural Networks
-  * Research Interest Score is higher than 97% of ResearchGate members who first published in 2020
-* Total reads 3546 (RG)
-* Reccomendations 65 (RG)
+From ResearchGate and Google Scholar (Aggregate), updated up to ** August 06, 2024**
+* Citations **168** (max between RG and GS)
+* h-index **5**
+* g-index **12** (Harzing's publish or perish)
+* Research Interest Score **214.6** (RG)
+  * Research Interest Score is higher than **76%** of ResearchGate members.
+  * Research Interest Score is higher than **77%** of researchers with work related to Applied Mathematics
+  * Research Interest Score is higher than **85%** of researchers with work related to Artificial Neural Networks
+  * Research Interest Score is higher than **97%** of ResearchGate members who first published in 2020
+* Total reads **3546** (RG)
+* Reccomendations **65** (RG)
+  
+From Scopus (2019–2023)
+---------
+* **92** Citations by **57** documents
+* **9** Documents
+* **4** h-index
+* **17** Co-authors
+* **40%** International collaboration
+* Documents in top citation percentiles **80%** (4 documents)
+* Documents in top 25% journals by CiteScore percentile **100%** (5 documents)
+* Field-Weighted Citation Impact **2.59 FWCI**
 
 List of peer-reviewed publications
 ======
