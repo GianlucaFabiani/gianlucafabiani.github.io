@@ -19,7 +19,7 @@ Current Position
 Ph.D. Student in Modelling and Engineering Risk and Complexity (MERC), at Scuola SUperiore Meridionale (SSM) (expected November 2024)
 * Supervisor: Professor Constantinos Siettos,
 * Co-Advisor: Professor Ioannis G. Kevrekidis
-* Thesis Project: Machine Learning-based Modelling and Numerical Analysis of the emergent dynamics of phase field models
+* Thesis Project: Machine Learning-based Modelling and Numerical Analysis of the emergent dynamics of complex systems
 * This Ph.D. program in MERC covers Mathematics, Physics, Engineering and Science, providing the possibility of attending courses and seminars from world-renown experts on a variety of topics including:
     * Complex systems, infrastructures and networks.
     * Data analysis and machine learning.
@@ -32,7 +32,7 @@ Education
 * M.S. in Applied Mathematics (LM-40), Università degli Studi di Napoli Federico II, October 2020
     * Department of Mathematics and Applications Renato Caccioppoli
     * Final Mark: 110/110 cum laude.
-    * Thesis: Learning Partial Differential Equations from Data with Machine Learning algorithms
+    * Thesis: ``Learning Partial Differential Equations from Data with Machine Learning algorithms"
     * Supervised by Professor Constantinos Siettos
 * B.S. in Mathematics (LM-35), Università degli Studi di Napoli Federico II, June 2018
     * Department of Mathematics and Applications Renato Caccioppoli
@@ -45,7 +45,7 @@ Education
 Visiting Experiences
 ======
 * International Visiting Student at Dept. of Chemical and Biomolecular Engineering, Johns Hopkins University (JHU), Supervisor: Prof. Ioannis G. Kevrekidis
-  * 3 months from 03/2022 to 05/2022
+  * 4 months from 03/2022 to 06/2022
   * 6 months from 02/2023 to 07/2023
   * 1 months in 01/2024
  
@@ -57,16 +57,17 @@ Research Activities
     
 Publications Impact 
 ======
-From ResearchGate and Google Scholar (Aggregate), updated up to June 17, 2024
-* Citations 141
+From ResearchGate and Google Scholar (Aggregate), updated up to August 06, 2024
+* Citations 168 (max between RG and GS)
 * h-index 5
-* g-index 11
-* Research Interest Score 193.3
-  * Research Interest Score is higher than 74% of ResearchGate members.
-  * Research Interest Score is higher than 76% of researchers with work related to Applied Mathematics
+* g-index 12 (Harzing's publish or perish)
+* Research Interest Score 214.6 (RG)
+  * Research Interest Score is higher than 76% of ResearchGate members.
+  * Research Interest Score is higher than 77% of researchers with work related to Applied Mathematics
+  * Research Interest Score is higher than 85% of researchers with work related to Artificial Neural Networks
   * Research Interest Score is higher than 97% of ResearchGate members who first published in 2020
-* Total reads 3250
-* Reccomendations 55
+* Total reads 3546 (RG)
+* Reccomendations 65 (RG)
 
 List of peer-reviewed publications
 ======
@@ -86,6 +87,11 @@ Talks in International Conferences
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
+Conference Organization
+=====
+Local Organizing Committee:
+* [DSABNS, 20-24 January 2025, Naples, Italy -- 16th Dynamical Systems applied on Biology and Natural Sciences](https://sites.google.com/view/dsabns2025/) 
+
 Invited Speaker
 ======
 * June 23, 2023: Parsimonious Physics-informed Random Projection Neural Networks (RPNN) for solving Forward and Inverse Problems
@@ -95,7 +101,9 @@ Minisymposia Organization
 ======
 * Dynamics Days Europe 2023
   Physics-Informed Machine Learning for the solution of forward and inverse problems
-  
+
+
+
 Teaching (Assistant and Didactic Internship)
 ======
   <ul>{% for post in site.teaching reversed %}
@@ -133,6 +141,7 @@ Skills
 
 Awards
 =====
+* Featured Article in Nature Communication award - Awarded May 2024 for the paper "Task-oriented machine learning surrogates for tipping points of agent-based models" in the collection "AI and Machine Learning"
 * Featured Article in Nature Communication award - Awarded May 2024 for the paper "Task-oriented machine learning surrogates for tipping points of agent-based models" in the collection "Applied physics and mathematics"
 * Chaos Editor's Pick badge award - Awarded April 2023 for the paper "Parsimonious physics-informed random projection neural networks for initial value problems of ODEs and index-1 DAEs"
 * SIAM Student Travel Award - Awarded May 2023 for SIAM DS23 conference
