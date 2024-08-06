@@ -33,7 +33,7 @@ The Big Picture: Our approach offers several benefits
 - Unveiling Secrets: We identify the underlying mechanisms driving tipping points, providing valuable insights for prevention or mitigation.
 - Quantifying the Unlikely: We calculate the probability of rare, catastrophic events triggered near tipping points.
 
-![Screenshot](../images/featured_image.png)
+![Screenshot](images/featured_image.png)
 
 Description
 ======
