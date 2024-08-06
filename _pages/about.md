@@ -29,6 +29,8 @@ Recent publications in
 [![screenshot](SISCpaper.jpg)](https://epubs.siam.org/doi/abs/10.1137/23M1602991)
 
 -  [Chaos, Solitons & Fractals 186, 115215](https://www.sciencedirect.com/science/article/pii/S0960077924007677), Nonlinear discrete-time observers with physics-informed neural networks HV Alvarez, G Fabiani, N Kazantzis, IG Kevrekidis, C Siettos
+[![screenshot](CSFpaper.jpg)](https://www.sciencedirect.com/science/article/pii/S0960077924007677)
+
 -  [Journal of Physical Oceanography 54 (7)](https://journals.ametsoc.org/view/journals/phoc/54/7/JPO-D-23-0161.1.xml), 1389-1409, Tipping points in overturning circulation mediated by ocean mixing and the configuration and magnitude of the hydrological cycle: A simple model, A Gnanadesikan, G Fabiani, J Liu, R Gelderloos, GJ Brett, Y Kevrekidis, ...
 -  [Soft Computing](https://link.springer.com/article/10.1007/s00500-024-09918-2), On the accuracy of interpolation based on single-layer artificial neural networks with a focus on defeating the Runge phenomenon, F Auricchio, MR Belardo, F Calabrò, G Fabiani, AF Pascaner
 
