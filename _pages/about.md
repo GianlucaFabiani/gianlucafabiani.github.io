@@ -13,6 +13,8 @@ redirect_from:
 
 Breaking News
 ======
+<img src="https://gianlucafabiani.github.io/NCOMMS-23-51160A.png" width="1000">
+
 New paper appeared in [**Nature Communications 15**](https://www.nature.com/articles/s41467-024-48024-7):
 - Fabiani, G., Evangelou, N., Cui, T. et al. [Task-oriented machine learning surrogates for tipping points of agent-based models](https://doi.org/10.1038/s41467-024-48024-7). Nat Commun 15, 4117 (2024).
 - Check out also the [behind the paper blog post](https://communities.springernature.com/posts/machine-learns-the-secrets-of-tipping-points) for a soft and accessible dive
