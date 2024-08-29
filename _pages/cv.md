@@ -58,6 +58,7 @@ Research Activities
 Publications Impact 
 ======
 From ResearchGate (RG) and Google Scholar (GS), updated up to **August 29, 2024**
+----
 * Citations **194** (max between RG and GS)
 * h-index **5**
 * i10-index **5**
@@ -73,14 +74,14 @@ From ResearchGate (RG) and Google Scholar (GS), updated up to **August 29, 2024*
   
 From Scopus (2019–2023)
 ---------
-* **92** Citations by **57** documents
+* **96** Citations by **60** documents
 * **9** Documents
 * **4** h-index
 * **17** Co-authors
 * **40%** International collaboration
 * Documents in top citation percentiles **80%** (4 documents)
 * Documents in top 25% journals by CiteScore percentile **100%** (5 documents)
-* Field-Weighted Citation Impact **2.59 FWCI**
+* Field-Weighted Citation Impact **2.60 FWCI**
 
 List of peer-reviewed publications
 ======
