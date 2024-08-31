@@ -75,7 +75,7 @@ From ResearchGate (RG) and Google Scholar (GS), updated up to **August 31, 2024*
   * higher than **72%** of researchers with work related to Mathematical Physics
 
 * Total reads **3601** (RG)
-* Reccomendations **67** (RG)
+* Recommendations **67** (RG)
   
 From Scopus (2019–2023)
 ---------
