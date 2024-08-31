@@ -57,18 +57,23 @@ Research Activities
     
 Publications Impact 
 ======
-From ResearchGate (RG) and Google Scholar (GS), updated up to **August 29, 2024**
+From ResearchGate (RG) and Google Scholar (GS), updated up to **August 31, 2024**
 ----
-* Citations **194** (max between RG and GS)
-* h-index **5**
+* Citations **194** (max between RG 194 and GS 184)
+* h-index **6**
 * i10-index **5**
-* g-index **12** (Harzing's publish or perish)
-* Research Interest Score **218.8** (RG)
-  * Research Interest Score is higher than **76%** of ResearchGate members.
-  * Research Interest Score is higher than **97%** of ResearchGate members who first published in 2020
-  * Research Interest Score is higher than **78%** of researchers with work related to Applied Mathematics
-  * Research Interest Score is higher than **86%** of researchers with work related to Artificial Neural Networks
-  * Research Interest Score is higher than **72%** of researchers with work related to Computing in Mathematics, Natural Science, Engineering and Medicine
+* g-index **13** (Harzing's publish or perish)
+* Research Interest Score **220.00** (RG)
+  * higher than **76%** of ResearchGate members.
+  * higher than **97%** of ResearchGate members who first published in 2020
+  * higher than **78%** of researchers with work related to Applied Mathematics
+  * higher than **82%** of researchers with work related to Artificial Intelligence
+  * higher than **85%** of researchers with work related to Artificial Neural Networks
+  * higher than **72%** of researchers with work related to Computing in Mathematics, Natural Science, Engineering and Medicine
+  * higher than **69%** of researchers with work related to Computational Physics
+  * higher than **82%** of researchers with work related to Computing in Social science, Arts and Humanities
+  * higher than **72%** of researchers with work related to Mathematical Physics
+
 * Total reads **3582** (RG)
 * Reccomendations **66** (RG)
   
