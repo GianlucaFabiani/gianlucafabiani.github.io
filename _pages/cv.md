@@ -57,6 +57,7 @@ Research Activities
     
 Publications Impact 
 ======
+
 From ResearchGate (RG) and Google Scholar (GS), updated up to **August 31, 2024**
 ----
 * Citations **194** (max between RG 194 and GS 184)
