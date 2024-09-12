@@ -38,7 +38,7 @@ Breaking News
 </p>
 
   - Check out also the [behind the paper blog post](https://communities.springernature.com/posts/machine-learns-the-secrets-of-tipping-points) for a soft and accessible dive
-  - 
+
 [<img src="https://raw.githubusercontent.com/GianlucaFabiani/gianlucafabiani.github.io/master/NCOMMS-23-51160A.png" width="500" />](https://communities.springernature.com/posts/machine-learns-the-secrets-of-tipping-points)
 
 
