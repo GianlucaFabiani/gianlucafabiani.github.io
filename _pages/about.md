@@ -14,7 +14,14 @@ redirect_from:
 Breaking News
 ======
 
-New paper appeared in [**Nature Communications 15**](https://www.nature.com/articles/s41467-024-48024-7):
+* New J comp phys paper accepted
+  - Fabiani, G., Kevrekidis, I. G., Siettos, C., & Yannacopoulos, A. N., RandONet: Shallow-Networks with Random Projections for learning linear and nonlinear operators, J Comp Phys, 2024 (accepted)
+  - Code public in a [GitHub repository ](https://github.com/GianlucaFabiani/RandONets)
+  
+<img src="https://raw.githubusercontent.com/GianlucaFabiani/RandONets/main/images/Schematic_RandOnet_details_colored.jpg" alt="Schematic of RandOnet" width="600"/>
+
+
+* New paper appeared in [**Nature Communications 15**](https://www.nature.com/articles/s41467-024-48024-7):
 - Fabiani, G., Evangelou, N., Cui, T. et al. [Task-oriented machine learning surrogates for tipping points of agent-based models](https://doi.org/10.1038/s41467-024-48024-7). Nat Commun 15, 4117 (2024).
 [<img src="https://raw.githubusercontent.com/GianlucaFabiani/gianlucafabiani.github.io/master/NatComm_paper.jpg" width="600" />](https://doi.org/10.1038/s41467-024-48024-7)
 
