@@ -60,10 +60,10 @@ Publications Impact
 
 From ResearchGate (RG) and Google Scholar (GS), updated up to **September 23, 2024**
 ----
-* Citations **194** (max between RG 204 and GS 195)
+* Citations **204** (max between RG 204 and GS 195)
 * h-index **6**
 * i10-index **5**
-* g-index **13** (Harzing's publish or perish on GS)
+* g-index **13** (Harzing's publish or perish, about GS stats)
 * Research Interest Score **229.7** (RG)
   * higher than **77%** of ResearchGate members.
   * higher than **97%** of ResearchGate members who first published in 2020
