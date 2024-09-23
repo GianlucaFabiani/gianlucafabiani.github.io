@@ -58,36 +58,36 @@ Research Activities
 Publications Impact 
 ======
 
-From ResearchGate (RG) and Google Scholar (GS), updated up to **September 12, 2024**
+From ResearchGate (RG) and Google Scholar (GS), updated up to **September 23, 2024**
 ----
-* Citations **194** (max between RG 194 and GS 184)
+* Citations **194** (max between RG 204 and GS 195)
 * h-index **6**
 * i10-index **5**
-* g-index **13** (Harzing's publish or perish)
-* Research Interest Score **226.6** (RG)
-  * higher than **76%** of ResearchGate members.
+* g-index **13** (Harzing's publish or perish on GS)
+* Research Interest Score **229.7** (RG)
+  * higher than **77%** of ResearchGate members.
   * higher than **97%** of ResearchGate members who first published in 2020
   * higher than **78%** of researchers with work related to Applied Mathematics
-  * higher than **83%** of researchers with work related to Artificial Intelligence
+  * higher than **84%** of researchers with work related to Artificial Intelligence
   * higher than **86%** of researchers with work related to Artificial Neural Networks
   * higher than **73%** of researchers with work related to Computing in Mathematics, Natural Science, Engineering and Medicine
   * higher than **70%** of researchers with work related to Computational Physics
-  * higher than **82%** of researchers with work related to Computing in Social science, Arts and Humanities
-  * higher than **72%** of researchers with work related to Mathematical Physics
+  * higher than **83%** of researchers with work related to Computing in Social science, Arts and Humanities
+  * higher than **73%** of researchers with work related to Mathematical Physics
 
-* Total reads **3641** (RG)
-* Recommendations **68** (RG)
+* Total reads **3680** (RG)
+* Recommendations **69** (RG)
   
 From Scopus (2019–2023)
 ---------
-* **98** Citations by **61** documents
+* **102** Citations by **63** documents
 * **9** Documents
 * **4** h-index
 * **17** Co-authors
 * **40%** International collaboration
 * Documents in top citation percentiles **80%** (4 documents)
 * Documents in top 25% journals by CiteScore percentile **100%** (5 documents)
-* Field-Weighted Citation Impact **2.60 FWCI**
+* Field-Weighted Citation Impact **2.56 FWCI**
 
 List of peer-reviewed publications
 ======
@@ -138,6 +138,9 @@ Referee for the following international journals:
 * Journal of Applied and Computational Mathematics
 * Soft Computing
 * Multibody System Dynamics
+* International Journal of Applied and Computational Mathematics
+* Transaction on machine learning research
+* Journal of Machine Learning Research
 
 Skills
 ======
