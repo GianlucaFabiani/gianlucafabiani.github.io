@@ -2,9 +2,10 @@
 title: 'Tipping Points in Ocean Currents Signal Climate Risks'
 date: 2024-09-25
 permalink: /posts/2024/09/ClimateTipping.md/
-tags: - ClimateChange
-      - TippingPoints
-      - OceanScience
+tags:
+  - Climate Change
+  - Tipping Points
+  - Ocean Science
 ---
 Researchers use advanced models to uncover critical thresholds in global ocean circulation, highlighting potential climate impacts.
 Read the paper: [Journal of Physical Oceanography 54(7)](https://doi.org/10.1175/JPO-D-23-0161.1).
