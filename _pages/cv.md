@@ -133,14 +133,12 @@ Teaching (Assistant and Didactic Internship)
 Peer-reviewing activity
 =====
 Referee for the following international journals:
-* Plos One
-* Nonlinear Dynamics
-* Journal of Applied and Computational Mathematics
-* Soft Computing
-* Multibody System Dynamics
-* International Journal of Applied and Computational Mathematics
-* Transaction on machine learning research
-* Journal of Machine Learning Research
+* 8 articles for Soft Computing (Elsevier)
+* 4 articles for Nonlinear Dynamics (Springer)
+* 2 articles for Plos One
+* 1 article for International Journal of Applied and Computational Mathematics (Springer)
+* 1 article for Multibody System Dynamics (Springer)
+* 1 article for Transaction on machine learning research (sub-journal of Journal of Machine Learning Research)
 
 Skills
 ======
