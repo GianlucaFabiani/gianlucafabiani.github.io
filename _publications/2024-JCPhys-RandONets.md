@@ -1,11 +1,11 @@
 ---
 title: "RandONets: Shallow-Networks with Random Projections for learning linear and nonlinear operators"
 collection: publications
-permalink: /publication/2024-JCPhy-RandONet
-excerpt: 'This paper propose a novel architecture, RandONets, for learning generic Operators. It leverages Random Projections and Random Features, as well as tailor-made numerical analysis method for improving significantly efficiency and accuracy. We demonstrate that RandONets outperforms DeepONets by 10 order of magnitudes. Also, we theoretically prove and extend the theorem of Chen and Chen (1995) to such randomized architectures.'
+permalink: /publication/2024-JCPhy-RandONets
+excerpt: 'This paper propose a novel architecture, RandONets, for learning generic Operators. It leverages Random Projections and Nonlinear Random Features, as well as tailor-made numerical analysis method for improving significantly efficiency and accuracy. We demonstrate that RandONets outperforms DeepONets by 10 order of magnitudes. Also, we theoretically prove and extend the theorem of Chen and Chen (1995) to such randomized architectures.'
 date: 2024-09-10
-venue: 'Journal of Computational Physics (accepted)'
-paperurl: 'https://arxiv.org/pdf/2406.05470'
+venue: 'Journal of Computational Physics'
+paperurl: 'https://doi.org/10.1016/j.jcp.2024.113433'
 citation: 'Fabiani, G., Kevrekidis, I. G., Siettos, C., & Yannacopoulos, A. N. RandONets: Shallow-Networks with Random Projections for learning linear and nonlinear operators. J Comp Phys (2024)'
 ---
 
