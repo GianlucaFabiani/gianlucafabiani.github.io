@@ -7,8 +7,10 @@ venue: "Crunch Seminars"
 date: 2023-06-23
 location: "Brown, Division of Applied Mathematics"
 ---
+
 Youtube video
 =====
+here the following video of the talk (presentation #2)
 [https://www.youtube.com/watch?v=eEiN3bN1TxE&t=134s](https://www.youtube.com/watch?v=eEiN3bN1TxE&t=134s)
 
 
