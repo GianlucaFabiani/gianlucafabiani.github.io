@@ -1,5 +1,5 @@
 ---
-title: "Parsimonious Physics-Informed Random Projection Neural Networks (PIRPNN)for solving Forward and Inverse Problems"
+title: "Parsimonious Physics-Informed Random Projection Neural Networks (PIRPNN) for solving Forward and Inverse Problems"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-Crunch
