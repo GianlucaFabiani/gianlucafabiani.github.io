@@ -14,8 +14,8 @@ redirect_from:
 Breaking News
 ======
 
-* New J comp phys paper accepted
-  - Fabiani, G., Kevrekidis, I. G., Siettos, C., & Yannacopoulos, A. N., RandONets: Shallow-Networks with Random Projections for learning linear and nonlinear operators, J Comp Phys, 2024 (accepted)
+* New [**J Comp. Phys.**](https://doi.org/10.1016/j.jcp.2024.113433) paper accepted
+  - Fabiani, G., Kevrekidis, I. G., Siettos, C., & Yannacopoulos, A. N., [RandONets: Shallow-Networks with Random Projections for learning linear and nonlinear operators](https://doi.org/10.1016/j.jcp.2024.113433), J Comp Phys, 2024
   - Code public in a [GitHub repository ](https://github.com/GianlucaFabiani/RandONets)
   
 <img src="https://raw.githubusercontent.com/GianlucaFabiani/RandONets/main/images/Schematic_RandOnet_details_colored.jpg" alt="Schematic of RandOnet" width="600"/>
