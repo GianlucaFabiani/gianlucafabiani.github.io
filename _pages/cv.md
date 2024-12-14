@@ -16,19 +16,20 @@ Gianluca Fabiani holds a Bachelor’s Degree in Mathematics and a Master’s Deg
 
 Current Position
 =====
-Ph.D. Student in Modelling and Engineering Risk and Complexity (MERC), at Scuola SUperiore Meridionale (SSM) (expected November 2024)
-* Supervisor: Professor Constantinos Siettos,
-* Co-Advisor: Professor Ioannis G. Kevrekidis
-* Thesis Project: Machine Learning-based Modelling and Numerical Analysis of the emergent dynamics of complex systems
-* This Ph.D. program in MERC covers Mathematics, Physics, Engineering and Science, providing the possibility of attending courses and seminars from world-renown experts on a variety of topics including:
-    * Complex systems, infrastructures and networks.
-    * Data analysis and machine learning.
-    * Reliability theory for uncertainty modelling.
-    * Systems and control theory.
-    * Risk Analysis and Risk management.
+* About to start a Postdoctoral fellowship at JHU (in February 2025)
 
 Education
 ======
+* Ph.D. Student in Modelling and Engineering Risk and Complexity (MERC), at Scuola SUperiore Meridionale (SSM) (Defense in January 2025)
+  * Supervisor: Professor Constantinos Siettos,
+  * Co-Advisor: Professor Ioannis G. Kevrekidis
+  * Thesis Project: Machine Learning-based Modelling and Numerical Analysis of the emergent dynamics of complex systems
+  * This Ph.D. program in MERC covers Mathematics, Physics, Engineering and Science, providing the possibility of attending courses and seminars from world-renown experts on a variety of topics including:
+      * Complex systems, infrastructures and networks.
+      * Data analysis and machine learning.
+      * Reliability theory for uncertainty modelling.
+      * Systems and control theory.
+      * Risk Analysis and Risk management.
 * M.S. in Applied Mathematics (LM-40), Università degli Studi di Napoli Federico II, October 2020
     * Department of Mathematics and Applications Renato Caccioppoli
     * Final Mark: 110/110 cum laude.
@@ -47,7 +48,8 @@ Visiting Experiences
 * International Visiting Student at Dept. of Chemical and Biomolecular Engineering, Johns Hopkins University (JHU), Supervisor: Prof. Ioannis G. Kevrekidis
   * 4 months from 03/2022 to 06/2022
   * 6 months from 02/2023 to 07/2023
-  * 1 months in 01/2024
+  * 1 month in 01/2024
+  * 1 month in 11/2024
  
 Research Activities
 =====
@@ -58,25 +60,25 @@ Research Activities
 Publications Impact 
 ======
 
-From ResearchGate (RG) and Google Scholar (GS), updated up to **September 23, 2024**
+From ResearchGate (RG) and Google Scholar (GS), updated up to **December 14, 2024**
 ----
-* Citations **204** (max between RG 204 and GS 195)
-* h-index **6**
+* Citations **242** (max between RG 242 and GS 227)
+* h-index **7**
 * i10-index **5**
-* g-index **13** (Harzing's publish or perish, about GS stats)
-* Research Interest Score **229.7** (RG)
-  * higher than **77%** of ResearchGate members.
-  * higher than **97%** of ResearchGate members who first published in 2020
-  * higher than **78%** of researchers with work related to Applied Mathematics
+* g-index **15** (Harzing's publish or perish, about GS stats)
+* Research Interest Score **261.6** (RG)
+  * higher than **78%** of ResearchGate members.
+  * higher than **98%** of ResearchGate members who first published in 2020
+  * higher than **80%** of researchers with work related to Applied Mathematics
   * higher than **84%** of researchers with work related to Artificial Intelligence
-  * higher than **86%** of researchers with work related to Artificial Neural Networks
-  * higher than **73%** of researchers with work related to Computing in Mathematics, Natural Science, Engineering and Medicine
-  * higher than **70%** of researchers with work related to Computational Physics
-  * higher than **83%** of researchers with work related to Computing in Social science, Arts and Humanities
-  * higher than **73%** of researchers with work related to Mathematical Physics
+  * higher than **87%** of researchers with work related to Artificial Neural Networks
+  * higher than **75%** of researchers with work related to Computing in Mathematics, Natural Science, Engineering and Medicine
+  * higher than **72%** of researchers with work related to Computational Physics
+  * higher than **84%** of researchers with work related to Computing in Social science, Arts and Humanities
+  * higher than **74%** of researchers with work related to Mathematical Physics
 
-* Total reads **3680** (RG)
-* Recommendations **69** (RG)
+* Total reads **4085** (RG)
+* Recommendations **82** (RG)
   
 From Scopus (2019–2023)
 ---------
