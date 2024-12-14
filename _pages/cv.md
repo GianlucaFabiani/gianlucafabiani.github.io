@@ -82,14 +82,14 @@ From ResearchGate (RG) and Google Scholar (GS), updated up to **December 14, 202
   
 From Scopus (2019–2023)
 ---------
-* **102** Citations by **63** documents
-* **9** Documents
+* **125** Citations by **76** documents
+* **11** Documents
 * **4** h-index
-* **17** Co-authors
+* **27** Co-authors
 * **40%** International collaboration
-* Documents in top citation percentiles **80%** (4 documents)
+* Documents in top citation percentiles **100%** (5 documents)
 * Documents in top 25% journals by CiteScore percentile **100%** (5 documents)
-* Field-Weighted Citation Impact **2.56 FWCI**
+* Field-Weighted Citation Impact **2.67 FWCI**
 
 List of peer-reviewed publications
 ======
@@ -121,8 +121,10 @@ https://bpb-us-w2.wpmucdn.com/sites.brown.edu/dist/1/376/files/2023/09/Flyer_6.2
 
 Minisymposia Organization
 ======
+* DSABNS2025
+  * Advanced Mathematical, Computational and Machine Learning Approaches in Modeling, Control and Analysis of Complex Systems
 * Dynamics Days Europe 2023
-  Physics-Informed Machine Learning for the solution of forward and inverse problems
+  * Physics-Informed Machine Learning for the solution of forward and inverse problems
 
 
 
