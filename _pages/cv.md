@@ -137,6 +137,8 @@ Gianluca Fabiani has served as a reviewer for several scientific journals, cover
 * 8 articles for Soft Computing (Elsevier)
 * 4 articles for Nonlinear Dynamics (Springer)
 * 2 articles for Plos One
+* 1 article for Computers in Biology and Medicine (Elsevier)
+* 1 arcticle for Journal of Computational and Applied Mathematics (Elsevier)
 * 1 article for International Journal of Applied and Computational Mathematics (Springer)
 * 1 article for Multibody System Dynamics (Springer)
 * 1 article for Transaction on machine learning research (sub-journal of Journal of Machine Learning Research)
