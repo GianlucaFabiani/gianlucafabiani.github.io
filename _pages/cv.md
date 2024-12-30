@@ -11,8 +11,7 @@ redirect_from:
 
 Biography
 ======
-Gianluca Fabiani is a PhD student in Modeling and Engineering Risk and Complexity (MERC) at Scuola Superiore Meridionale (SSM), Naples, Italy. Additionally, He have been recently a Visiting Student at the Department of Chemical and Biomolecular Engineering, Johns Hopkins University.
-Gianluca Fabiani holds a Bachelor’s Degree in Mathematics and a Master’s Degree in Applied Mathematics from the Department of Mathematics and Applications of the University of Naples Federico II. During his Master's Degree, the direction of his studies has focused on the numerical analysis, machine learning, statistics and mathematical modeling of complex dynamical systems. He graduated with honours, conducting his MSc Thesis entitled “Learning Partial Differential Equations from Data with Machine Learning algorithms" under the supervision of Prof. Constantinos Siettos. His research interests have found a natural continuation within the PhD program in Modeling and Engineering Risk and Complexity (MERC) at the Shool of Advances Studies of Naples (SSM).
+Gianluca Fabiani holds a Bachelor’s in Mathematics and a Master’s in Applied Mathematics from the University of Naples Federico II, and a PhD in Modeling and Engineering Risk and Complexity from the School of Advanced Studies of Naples (Scuola Superiore Meridionale, SSM). He was also a Visiting Student in the Department of Chemical and Biomolecular Engineering at Johns Hopkins University. Fabiani specializes in data-driven scientific machine learning for modeling complex systems, bridging numerical analysis and machine learning to create interpretable, resource-efficient methods. His research addresses forward and inverse problems in neuroscience, epidemiology, and finance, with 14 publications, including a feature in Nature Communications, an Editor's Pick in Chaos, 
 
 Current Position
 =====
