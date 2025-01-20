@@ -161,11 +161,15 @@ Skills
     * TensorFlow
     * Keras
     * numpy
-    * others
+    * tensorflow
+    * JAX
+    * PyTorch
   * C
   * Fortran
 * Latex
 * Microsoft Office 365
+* Photoshop
+* Blender
 
 Awards
 =====
