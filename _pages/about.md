@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is Dr. Gianluca Fabiani home on the web!"
+title: "Dr. Gianluca Fabiani’s Research Space - Where Mathematics Meets Machine Learning"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,41 +9,28 @@ redirect_from:
 
 ![screenshot](background_github2.jpg)
 
-"Exploring the intricate interplay of intelligence, numerics and patterns in the fabric of complexity"
+"Exploring the Hidden Patterns of Complexity with intersection of AI/ML and Numerical Analysis"
 
 Breaking News
 ======
 
-* New [**J Comp. Phys.**](https://doi.org/10.1016/j.jcp.2024.113433) paper accepted
-  - Fabiani, G., Kevrekidis, I. G., Siettos, C., & Yannacopoulos, A. N., [RandONets: Shallow-Networks with Random Projections for learning linear and nonlinear operators](https://doi.org/10.1016/j.jcp.2024.113433), J Comp Phys, 2024
+* New [**SIAM Journal on Mathematics of Data Science**] paper published (my first single-author work)
+  - Fabiani, G., [Random projection neural networks of best approximation: Convergence theory and practical applications](https://doi.org/10.1137/24M1639890), SIAM Journal on Mathematics of Data Science 7 (2), 385-409, 2025
+
+* New [**J Comp. Phys.**](https://doi.org/10.1016/j.jcp.2024.113433) paper published
+  - Fabiani, G., Kevrekidis, I. G., Siettos, C., & Yannacopoulos, A. N., [RandONets: Shallow-Networks with Random Projections for learning linear and nonlinear operators](https://doi.org/10.1016/j.jcp.2024.113433), Journal of Computational Physics, Volume 520, 113433, 2025
   - Code public in a [GitHub repository ](https://github.com/GianlucaFabiani/RandONets)
   
 <img src="https://raw.githubusercontent.com/GianlucaFabiani/RandONets/main/images/Schematic_RandOnet_details_colored.jpg" alt="Schematic of RandOnet" width="600"/>
 
 
-* New paper appeared in [**Nature Communications 15**](https://www.nature.com/articles/s41467-024-48024-7):
-    - Fabiani, G., Evangelou, N., Cui, T. et al. [Task-oriented machine learning surrogates for tipping points of agent-based models](https://doi.org/10.1038/s41467-024-48024-7). Nat Commun 15, 4117 (2024).
-
-[<img src="https://raw.githubusercontent.com/GianlucaFabiani/gianlucafabiani.github.io/master/NatComm_paper.jpg" width="600" />](https://doi.org/10.1038/s41467-024-48024-7)
-
-  - Part of Featured Nat Comm collections in both [(Focus: AI and machine learning)](https://www.nature.com/collections/ceiajcdbeb) and [(Focus: Applied physics and mathematics)](https://www.nature.com/collections/hjhbgijcei)
-
-<p float="left">
-  <a href="https://www.nature.com/collections/ceiajcdbeb">
-    <img src="https://gianlucafabiani.github.io/FeaturedNatComm.png" width="350"/>
-  </a>
-  <a href="https://www.nature.com/collections/hjhbgijcei">
-    <img src="https://gianlucafabiani.github.io/NatCommFeat_AppPhyMath.jpg" width="350"/>
-  </a>
-</p>
-
-  - Check out also the [behind the paper blog post](https://communities.springernature.com/posts/machine-learns-the-secrets-of-tipping-points) for a soft and accessible dive
-
-[<img src="https://raw.githubusercontent.com/GianlucaFabiani/gianlucafabiani.github.io/master/NCOMMS-23-51160A.png" width="500" />](https://communities.springernature.com/posts/machine-learns-the-secrets-of-tipping-points)
-
 
 Recent publications in
 ---
+- [**Nature Communications 15**](https://www.nature.com/articles/s41467-024-48024-7):
+    - Fabiani, G., Evangelou, N., Cui, T. et al. [Task-oriented machine learning surrogates for tipping points of agent-based models](https://doi.org/10.1038/s41467-024-48024-7). Nat Commun 15, 4117 (2024).
+
+[<img src="https://raw.githubusercontent.com/GianlucaFabiani/gianlucafabiani.github.io/master/NatComm_paper.jpg" width="600" />](https://doi.org/10.1038/s41467-024-48024-7)
 - [ SIAM Journal on Scientific Computing 46 (4)](https://epubs.siam.org/doi/abs/10.1137/23M1602991), C297-C322, Slow invariant manifolds of singularly perturbed systems via physics-informed machine learning, D Patsatzis, G Fabiani, L Russo, C Siettos
 [![screenshot](SISCpaper.jpg)](https://epubs.siam.org/doi/abs/10.1137/23M1602991)
 
