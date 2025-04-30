@@ -1,7 +1,7 @@
 ---
 title: "RandONets: Shallow-Networks with Random Projections for learning linear and nonlinear operators"
 collection: publications
-permalink: /publication/2024-JCPhy-RandONets
+permalink: /publication/2025-JCPhy-RandONets
 excerpt: 'This paper propose a novel architecture, RandONets, for learning generic Operators. It leverages Random Projections and Nonlinear Random Features, as well as tailor-made numerical analysis method for improving significantly efficiency and accuracy. We demonstrate that RandONets outperforms DeepONets by 10 order of magnitudes. Also, we theoretically prove and extend the theorem of Chen and Chen (1995) to such randomized architectures.'
 date: 2024-09-10
 venue: 'Journal of Computational Physics'
