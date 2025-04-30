@@ -11,11 +11,15 @@ redirect_from:
 
 Biography
 ======
-Gianluca Fabiani holds a Bachelor’s in Mathematics and a Master’s in Applied Mathematics from the University of Naples Federico II, and a PhD in Modeling and Engineering Risk and Complexity from the School of Advanced Studies of Naples (Scuola Superiore Meridionale, SSM). He was also a Visiting Student in the Department of Chemical and Biomolecular Engineering at Johns Hopkins University. Fabiani specializes in data-driven scientific machine learning for modeling complex systems, bridging numerical analysis and machine learning to create interpretable, resource-efficient methods. His research addresses forward and inverse problems in neuroscience, epidemiology, and finance, with 14 publications, including a feature in Nature Communications, an Editor's Pick in Chaos, 
+Dr. Gianluca Fabiani is a Postdoctoral Fellow at the Hopkins Extreme Materials Institute (HEMI), Johns Hopkins University, working with Prof. Yannis G. Kevrekidis. He completed his Ph.D. in Modeling and Engineering Risk and Complexity (MERC) at the Scuola Superiore Meridionale (Naples), under the supervision of Prof. Constantinos Siettos and co-advising of Prof. Kevrekidis. He holds an M.Sc. in Applied Mathematics with honors from the University of Naples Federico II.
+
+His research focuses on solving forward and inverse problems for ODEs, PDEs, and agent-based models using machine learning and numerical analysis. He develops multi-scale, data-driven frameworks based on physics-informed neural networks (PINNs) and random projection neural networks (RPNNs) for tasks such as bifurcation analysis, control design, and rare event estimation. His work bridges data-driven and mechanistic modeling with applications spanning climate, epidemiology, and complex materials.
+
+Dr. Fabiani has authored 14 research papers, including in Nature Communications, Journal of Computational Physics, and SIAM Journal on Scientific Computing, and has collaborated with over 20 researchers across disciplines. 
 
 Current Position
 =====
-* About to start a Postdoctoral fellowship at JHU (in February 2025)
+* Postdoctoral fellowship at the Hopkins Extreme Materials Institute, Johns Hopkins University (from February 2025)
 
 Education
 ======
@@ -61,23 +65,23 @@ Publications Impact
 
 From ResearchGate (RG) and Google Scholar (GS), updated up to **December 14, 2024**
 ----
-* Citations **242** (max between RG 242 and GS 227)
-* h-index **7**
+* Citations **303** (max between RG 303 and GS 287)
+* h-index **8**
 * i10-index **5**
-* g-index **15** (Harzing's publish or perish, about GS stats)
-* Research Interest Score **261.6** (RG)
-  * higher than **78%** of ResearchGate members.
+* g-index **17** (Harzing's publish or perish, about GS stats)
+* Research Interest Score **303.4** (RG)
+  * higher than **80%** of ResearchGate members.
   * higher than **98%** of ResearchGate members who first published in 2020
-  * higher than **80%** of researchers with work related to Applied Mathematics
-  * higher than **84%** of researchers with work related to Artificial Intelligence
-  * higher than **87%** of researchers with work related to Artificial Neural Networks
-  * higher than **75%** of researchers with work related to Computing in Mathematics, Natural Science, Engineering and Medicine
-  * higher than **72%** of researchers with work related to Computational Physics
-  * higher than **84%** of researchers with work related to Computing in Social science, Arts and Humanities
-  * higher than **74%** of researchers with work related to Mathematical Physics
+  * higher than **81%** of researchers with work related to Applied Mathematics
+  * higher than **86%** of researchers with work related to Artificial Intelligence
+  * higher than **88%** of researchers with work related to Artificial Neural Networks
+  * higher than **77%** of researchers with work related to Computing in Mathematics, Natural Science, Engineering and Medicine
+  * higher than **74%** of researchers with work related to Computational Physics
+  * higher than **85%** of researchers with work related to Computing in Social science, Arts and Humanities
+  * higher than **76%** of researchers with work related to Mathematical Physics
 
-* Total reads **4085** (RG)
-* Recommendations **82** (RG)
+* Total reads **4566** (RG)
+* Recommendations **93** (RG)
   
 From Scopus (2019–2023)
 ---------
