@@ -85,14 +85,12 @@ From ResearchGate (RG) and Google Scholar (GS), updated up to **December 14, 202
   
 From Scopus (2019–2023)
 ---------
-* **125** Citations by **76** documents
+* **181** Citations by **109** documents
 * **11** Documents
-* **4** h-index
-* **27** Co-authors
-* **40%** International collaboration
-* Documents in top citation percentiles **100%** (5 documents)
+* **5** h-index
+* **25** Co-authors
 * Documents in top 25% journals by CiteScore percentile **100%** (5 documents)
-* Field-Weighted Citation Impact **2.67 FWCI**
+* Field-Weighted Citation Impact **2.97 FWCI**
 
 List of peer-reviewed publications
 ======
@@ -141,12 +139,12 @@ Peer-reviewing activity
 =====
 
 Gianluca Fabiani has served as a reviewer for several scientific journals, covering topics related to scientific computing, dynamical systems, and multidisciplinary research. His peer review contributions include the following (total 17 reviews):
-* 8 articles for Soft Computing (Elsevier)
+* 10 articles for Soft Computing (Elsevier)
 * 4 articles for Nonlinear Dynamics (Springer)
 * 2 articles for Plos One
+* 2 arcticle for Journal of Computational and Applied Mathematics (Elsevier)
 * 1 article for Plos Computational Biology
 * 1 article for Computers in Biology and Medicine (Elsevier)
-* 1 arcticle for Journal of Computational and Applied Mathematics (Elsevier)
 * 1 article for International Journal of Applied and Computational Mathematics (Springer)
 * 1 article for Multibody System Dynamics (Springer)
 * 1 article for Transaction on machine learning research (sub-journal of Journal of Machine Learning Research)
