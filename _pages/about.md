@@ -14,7 +14,7 @@ redirect_from:
 Breaking News
 ======
 
-* New [**SIAM Journal on Mathematics of Data Science**] paper published (my first single-author work)
+* New [**SIAM Journal on Mathematics of Data Science**](https://doi.org/10.1137/24M1639890) paper published (my first single-author work)
   - Fabiani, G., [Random projection neural networks of best approximation: Convergence theory and practical applications](https://doi.org/10.1137/24M1639890), SIAM Journal on Mathematics of Data Science 7 (2), 385-409, 2025
 
 * New [**J Comp. Phys.**](https://doi.org/10.1016/j.jcp.2024.113433) paper published
