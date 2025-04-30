@@ -6,7 +6,7 @@ excerpt: 'This paper propose a novel architecture, RandONets, for learning gener
 date: 2024-09-10
 venue: 'Journal of Computational Physics'
 paperurl: 'https://doi.org/10.1016/j.jcp.2024.113433'
-citation: 'Fabiani, G., Kevrekidis, I. G., Siettos, C., & Yannacopoulos, A. N. RandONets: Shallow-Networks with Random Projections for learning linear and nonlinear operators. J Comp Phys (2024)'
+citation: 'Fabiani, G., Kevrekidis, I. G., Siettos, C., & Yannacopoulos, A. N. RandONets: Shallow-Networks with Random Projections for learning linear and nonlinear operators. J Comp Phys (2025)'
 ---
 
 Graphical Abstract
