@@ -13,6 +13,8 @@ redirect_from:
 
 Breaking News
 ======
+* New [Arxiv preprint](https://arxiv.org/abs/2505.02308):
+ - Fabiani, G., Vandecasteele, H., Goswami, S., Siettos, C., & Kevrekidis, I. G. (2025). [Enabling Local Neural Operators to perform Equation-Free System-Level Analysis](https://arxiv.org/abs/2505.02308). arXiv preprint arXiv:2505.02308.
 
 * New [**SIAM Journal on Mathematics of Data Science**](https://doi.org/10.1137/24M1639890) paper published (my first single-author work)
   - Fabiani, G., [Random projection neural networks of best approximation: Convergence theory and practical applications](https://doi.org/10.1137/24M1639890), SIAM Journal on Mathematics of Data Science 7 (2), 385-409, 2025
