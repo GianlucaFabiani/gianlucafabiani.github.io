@@ -71,7 +71,23 @@ Research Topics
 1. Neural Networks and Artificial Intelligence
 1. Numerical Analysis of Partial Differential Equations
 1. Complex Systems
-1. System Identification
+1. System Identification and Data-Driven Discovery of Governing Equations
 1. Numerical Bifurcation Analysis
 1. Complex Networks
 1. Pattern Recognition
+2. Operator Learning for PDEs
+3. Surrogate Modeling for Multi-scale Systems
+4. Physics-Informed Neural Networks (PINNs)
+5. Equation-Free Multiscale Computation
+6. High-Dimensional Approximation Techniques
+7. Nonlinear Dynamical Systems
+8. Koopman Operator Theory in Machine Learning
+9. Spatiotemporal Chaos and Turbulence Modeling
+10. Phase-Field Modeling and Free Energy Analysis
+11. Rare Events and Tipping Points in Dynamical Systems
+12. Model Reduction Techniques (e.g., POD, DMD, Autoencoders)
+13. Graph Neural Networks for Dynamical Systems
+14. Inverse Problems and Data Assimilation
+15. Stochastic Processes and Stochastic PDEs
+16. Uncertainty Quantification in Physical Models
+17. Functional Analysis for Neural Networks and Neural Operators
