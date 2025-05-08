@@ -54,7 +54,7 @@ From left to right: Dr. Dimitrios Patsatzis, Hector Vargas Alvarez, Me, Prof. Co
 
 Introduction
 ======
-I am a PhD student in Modeling and Engineering Risk and Complexity (MERC) at Scuola Superiore Meridionale (SSM), Naples, Italy. Additionally, I recently have been a Visiting Student at Johns Hopkins University. I also got a Master’s Degree in Applied Mathematics at Federico II University. My research interests concern numerical analysis, machine learning, bifurcation analysis and mathematical modeling with particular emphasis on problems that arise in multiscale and multiphase complex systems.
+I am a Postdoctoral fellow at the Hopkins Extreme Materials Institute, Johns Hopkins University, JHU. Formerly, I was a PhD student in Modeling and Engineering Risk and Complexity (MERC) at Scuola Superiore Meridionale (SSM), Naples, Italy. I also got a Master’s Degree in Applied Mathematics at Federico II University. My research interests concern numerical analysis, machine learning, bifurcation analysis and mathematical modeling with particular emphasis on problems that arise in multiscale and multiphase complex systems.
 
 Disciplines
 =====
