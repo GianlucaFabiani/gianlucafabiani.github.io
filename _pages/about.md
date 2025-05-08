@@ -16,7 +16,7 @@ Breaking News
 * New [Arxiv preprint](https://arxiv.org/abs/2505.02308):
   - Fabiani, G., Vandecasteele, H., Goswami, S., Siettos, C., & Kevrekidis, I. G. (2025). [Enabling Local Neural Operators to perform Equation-Free System-Level Analysis](https://arxiv.org/abs/2505.02308). arXiv preprint arXiv:2505.02308.
 
-<img src="https://raw.githubusercontent.com/GianlucaFabiani/gianlucafabiani.github.io/master/images/Schematic_Overview_4.png" alt="Schematic of the EQ framework" width="450"/>
+<img src="https://raw.githubusercontent.com/GianlucaFabiani/gianlucafabiani.github.io/master/images/Schematic_Overview_4.png" alt="Schematic of the EQ framework" width="450"/>(https://arxiv.org/abs/2505.02308)
     
 
 * New [**SIAM Journal on Mathematics of Data Science**](https://doi.org/10.1137/24M1639890) paper published (my first single-author work)
