@@ -81,11 +81,11 @@ From ResearchGate (RG) and Google Scholar (GS), updated up to **May 14, 2024**
   <!--* higher than **76%** of researchers with work related to Mathematical Physics-->
 * Total reads **4655** (RG)
 * Recommendations **96** (RG)
-<!--From Scopus (2019–2023)
-<!-----------
-<!--* **181** Citations by **109** documents
-<!--* **11** Documents
-<!--* **5** h-index
+<!--From Scopus (2019–2023)-->
+<!-----------  -->
+<!--* **181** Citations by **109** documents -->
+<!--* **11** Documents-->
+<!--* **5** h-index-->
 * **25** Co-authors (Scopus)
 * Documents in top 25% journals by CiteScore percentile **100%** (Scopus, 5 documents from 2019-2023)
 * Field-Weighted Citation Impact **2.97 FWCI** (Scopus)
