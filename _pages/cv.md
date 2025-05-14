@@ -72,12 +72,12 @@ From ResearchGate (RG) and Google Scholar (GS), updated up to **December 14, 202
 * Research Interest Score **303.4** (RG)
   * higher than **80%** of ResearchGate members.
   * higher than **98%** of ResearchGate members who first published in 2020
-  * higher than **81%** of researchers with work related to Applied Mathematics
-  * higher than **86%** of researchers with work related to Artificial Intelligence
-  * higher than **88%** of researchers with work related to Artificial Neural Networks
+  <!--* higher than **81%** of researchers with work related to Applied Mathematics-->
+  <!--* higher than **86%** of researchers with work related to Artificial Intelligence-->
+  <!--* higher than **88%** of researchers with work related to Artificial Neural Networks-->
   <!-- * higher than **77%** of researchers with work related to Computing in Mathematics, Natural Science, Engineering and Medicine-->
   <!--* higher than **74%** of researchers with work related to Computational Physics-->
-  * higher than **85%** of researchers with work related to Computing in Social science, Arts and Humanities
+  <!--* higher than **85%** of researchers with work related to Computing in Social science, Arts and Humanities-->
   <!--* higher than **76%** of researchers with work related to Mathematical Physics-->
 
 * Total reads **4566** (RG)
