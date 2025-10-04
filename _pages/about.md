@@ -52,7 +52,7 @@ From left to right: Dr. Dimitrios Patsatzis, Hector Vargas Alvarez, Me, Prof. Co
 [<img src="https://raw.githubusercontent.com/GianlucaFabiani/gianlucafabiani.github.io/master/DDE_group_foto.jpeg" width="600" />]
 
 
-
+[<img src="https://raw.githubusercontent.com/GianlucaFabiani/gianlucafabiani.github.io/refs/heads/master/group_photo_Bremen.jpeg" width="600" />]
 
 
 
@@ -85,6 +85,7 @@ Research Topics
 1. Equation-Free Multiscale Computation
 1. High-Dimensional Approximation Techniques
 1. Nonlinear Dynamical Systems
+1. Krylov Subspace methods
 1. Koopman Operator Theory in Machine Learning
 1. Spatiotemporal Chaos and Turbulence Modeling
 1. Phase-Field Modeling and Free Energy Analysis
@@ -95,3 +96,4 @@ Research Topics
 1. Stochastic Processes and Stochastic PDEs
 1. Uncertainty Quantification in Physical Models
 1. Functional Analysis for Neural Networks and Neural Operators
+1. Large Language Models and Agentics
