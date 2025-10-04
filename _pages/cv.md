@@ -15,7 +15,7 @@ Dr. Gianluca Fabiani is a Postdoctoral Fellow at the Hopkins Extreme Materials I
 
 His research focuses on solving forward and inverse problems for ODEs, PDEs, and agent-based models using machine learning and numerical analysis. He develops multi-scale, data-driven frameworks based on physics-informed neural networks (PINNs) and random projection neural networks (RPNNs) for tasks such as bifurcation analysis, control design, and rare event estimation. His work bridges data-driven and mechanistic modeling with applications spanning climate, epidemiology, and complex materials.
 
-Dr. Fabiani has authored 14 research papers, including in Nature Communications, Journal of Computational Physics, and SIAM Journal on Scientific Computing, and has collaborated with over 20 researchers across disciplines. 
+Dr. Fabiani has authored 17 research papers, including in Nature Communications, Journal of Computational Physics, and SIAM Journal on Scientific Computing, and has collaborated with over 30 researchers across disciplines. 
 
 Current Position
 =====
@@ -63,14 +63,14 @@ Research Activities
 Publications Impact 
 ======
 
-From ResearchGate (RG) and Google Scholar (GS), updated up to **May 14, 2024**
+From ResearchGate (RG) and Google Scholar (GS), updated up to **Oct 4, 2025**
 ----
-* Citations **310** (max between RG 310 and GS 295)
-* h-index **8**
-* i10-index **6**
-* g-index **17** (Harzing's publish or perish, about GS stats)
-* Research Interest Score **309.2** (RG)
-  * higher than **80%** of ResearchGate members.
+* Citations **399** (max between RG 399 and GS 398)
+* h-index **10**
+* i10-index **10**
+* g-index **19** (Harzing's publish or perish, about GS stats)
+* Research Interest Score **357.6** (RG)
+  * higher than **82%** of ResearchGate members.
   * higher than **98%** of ResearchGate members who first published in 2020
   <!--* higher than **81%** of researchers with work related to Applied Mathematics-->
   <!--* higher than **86%** of researchers with work related to Artificial Intelligence-->
@@ -79,16 +79,17 @@ From ResearchGate (RG) and Google Scholar (GS), updated up to **May 14, 2024**
   <!--* higher than **74%** of researchers with work related to Computational Physics-->
   <!--* higher than **85%** of researchers with work related to Computing in Social science, Arts and Humanities-->
   <!--* higher than **76%** of researchers with work related to Mathematical Physics-->
-* Total reads **4655** (RG)
-* Recommendations **96** (RG)
+  <!--* Total reads **4655** (RG)-->
+* Recommendations **109** (RG)
 <!--From Scopus (2019–2023)-->
 <!-----------  -->
-<!--* **181** Citations by **109** documents -->
-<!--* **11** Documents-->
-<!--* **5** h-index-->
+<!--* **225** Citations by **133** documents -->
+<!--* **12** Documents-->
+<!--* **7** h-index-->
 * **25** Co-authors (Scopus)
-* Documents in top 25% journals by CiteScore percentile **100%** (Scopus, 5 documents from 2019-2023)
-* Field-Weighted Citation Impact **2.97 FWCI** (Scopus)
+* Percent of documents in the top 25% most cited documents worldwide **80%** (Scopus, 10 documents from 2021-2024)
+* Documents in top 25% journals by CiteScore percentile **100%** (Scopus, 10 documents from 2021-2024)
+* Field-Weighted Citation Impact **2.23 FWCI** (Scopus)
 
 List of peer-reviewed publications
 ======
