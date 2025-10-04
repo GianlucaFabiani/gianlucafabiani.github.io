@@ -16,7 +16,7 @@ Breaking News
 * New  [Arxiv preprint](https://www.arxiv.org/pdf/2509.23975)
   - Fabiani, G., Siettos, C., & Kevrekidis, I. G. (2025). [Equation-Free Coarse Control of Distributed Parameter Systems via Local Neural Operators](https://www.arxiv.org/pdf/2509.23975). arXiv preprint arXiv:2509.23975.
 
-    [<img src="https://raw.githubusercontent.com/GianlucaFabiani/gianlucafabiani.github.io/refs/heads/master/Schematic_EF_NO_control.jpg" width="600"/>](https://arxiv.org/abs/2505.02308)
+    [<img src="https://raw.githubusercontent.com/GianlucaFabiani/gianlucafabiani.github.io/refs/heads/master/Schematic_EF_NO_control.jpg" width="600"/>](https://www.arxiv.org/pdf/2509.23975)
 
 * New [Arxiv preprint](https://arxiv.org/abs/2509.15963):
   - Kavousanakis, M., Fabiani, G., Georgiou, A., Siettos, C., Kevrekidis, P., & Kevrekidis, I. (2025). [Going with the Flow: Solving for Symmetry-Driven PDE dynamics with Physics-informed Neural Networks](https://arxiv.org/abs/2509.15963). arXiv preprint arXiv:2509.15963.
@@ -37,7 +37,7 @@ Recent publications in
   - Fabiani, G., Kevrekidis, I. G., Siettos, C., & Yannacopoulos, A. N., [RandONets: Shallow-Networks with Random Projections for learning linear and nonlinear operators](https://doi.org/10.1016/j.jcp.2024.113433), Journal of Computational Physics, Volume 520, 113433, 2025
   - Code public in a [GitHub repository ](https://github.com/GianlucaFabiani/RandONets)
   
-<img src="https://raw.githubusercontent.com/GianlucaFabiani/RandONets/main/images/Schematic_RandOnet_details_colored.jpg" alt="Schematic of RandOnet" width="600"/>
+[<img src="https://raw.githubusercontent.com/GianlucaFabiani/RandONets/main/images/Schematic_RandOnet_details_colored.jpg" alt="Schematic of RandOnet" width="600"/>](https://doi.org/10.1016/j.jcp.2024.113433)
 
 - [**Nature Communications 15**](https://www.nature.com/articles/s41467-024-48024-7):
     - Fabiani, G., Evangelou, N., Cui, T. et al. [Task-oriented machine learning surrogates for tipping points of agent-based models](https://doi.org/10.1038/s41467-024-48024-7). Nat Commun 15, 4117 (2024).
