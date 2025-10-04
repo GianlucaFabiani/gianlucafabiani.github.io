@@ -48,9 +48,13 @@ Recent publications in
 
 Research Group Photo
 ======
+From left to right: Dr. Dimitrios Patsatzis, Hector Vargas Alvarez, Me, Prof. Constantinos Siettos, Dr. Lucia Russo, Prof. Ioannis Kevrekidis, Prof. Felix Dietrich, Dr. Nikolaos Evangelou
 [<img src="https://raw.githubusercontent.com/GianlucaFabiani/gianlucafabiani.github.io/master/DDE_group_foto.jpeg" width="600" />]
 
-From left to right: Dr. Dimitrios Patsatzis, Hector Vargas Alvarez, Me, Prof. Constantinos Siettos, Dr. Lucia Russo, Prof. Ioannis Kevrekidis, Prof. Felix Dietrich, Dr. Nikolaos Evangelou
+
+
+
+
 
 Introduction
 ======
