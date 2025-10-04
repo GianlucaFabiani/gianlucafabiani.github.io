@@ -13,6 +13,9 @@ redirect_from:
 
 Breaking News
 ======
+* New  [Arxiv preprint](https://www.arxiv.org/pdf/2509.23975)
+  - Fabiani, G., Siettos, C., & Kevrekidis, I. G. (2025). [Equation-Free Coarse Control of Distributed Parameter Systems via Local Neural Operators](https://www.arxiv.org/pdf/2509.23975). arXiv preprint arXiv:2509.23975.
+  
 * New [Arxiv preprint](https://arxiv.org/abs/2505.02308):
   - Fabiani, G., Vandecasteele, H., Goswami, S., Siettos, C., & Kevrekidis, I. G. (2025). [Enabling Local Neural Operators to perform Equation-Free System-Level Analysis](https://arxiv.org/abs/2505.02308). arXiv preprint arXiv:2505.02308.
 
