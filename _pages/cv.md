@@ -126,6 +126,9 @@ Minisymposia Organization
 * Dynamics Days Europe 2023
   * Physics-Informed Machine Learning for the solution of forward and inverse problems
 
+Poster Presentations
+=======
+* Numerical Solution of Quasi-Linear Parabolic Partial Differential Equations with Physics Informed Random Projection Neural Networks. Dynamics Days Europe 2022, Aberdeen, Scotland. 22-26 August 2022
 
 
 Teaching (Assistant and Didactic Internship)
