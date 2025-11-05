@@ -11,6 +11,11 @@ redirect_from:
 
 "Exploring the Hidden Patterns of Complexity with intersection of AI/ML and Numerical Analysis"
 
+Introduction
+======
+I am a Postdoctoral fellow at the Hopkins Extreme Materials Institute, Johns Hopkins University, JHU. Formerly, I was a PhD student in Modeling and Engineering Risk and Complexity (MERC) at Scuola Superiore Meridionale (SSM), Naples, Italy. I also got a Master’s Degree in Applied Mathematics at Federico II University. My research interests concern numerical analysis, machine learning, bifurcation analysis and mathematical modeling with particular emphasis on problems that arise in multiscale and multiphase complex systems.
+
+
 News
 ======
 * New  [Arxiv preprint](https://www.arxiv.org/pdf/2511.00886)
@@ -65,11 +70,6 @@ Research Group Photo
 - From left to right: Prof. Constantinos Siettos, Dr. Alessandro Della Pia, Me, GianMaria Viola, Hector Vargas Alvarez
   <img src="https://raw.githubusercontent.com/GianlucaFabiani/gianlucafabiani.github.io/refs/heads/master/group_photo_Bremen.jpeg" width="600" />
 
-
-
-Introduction
-======
-I am a Postdoctoral fellow at the Hopkins Extreme Materials Institute, Johns Hopkins University, JHU. Formerly, I was a PhD student in Modeling and Engineering Risk and Complexity (MERC) at Scuola Superiore Meridionale (SSM), Naples, Italy. I also got a Master’s Degree in Applied Mathematics at Federico II University. My research interests concern numerical analysis, machine learning, bifurcation analysis and mathematical modeling with particular emphasis on problems that arise in multiscale and multiphase complex systems.
 
 Disciplines
 =====
