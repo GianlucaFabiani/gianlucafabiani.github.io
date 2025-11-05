@@ -11,7 +11,7 @@ redirect_from:
 
 "Exploring the Hidden Patterns of Complexity with intersection of AI/ML and Numerical Analysis"
 
-Breaking News
+News
 ======
 * New  [Arxiv preprint](https://www.arxiv.org/pdf/2511.00886)
   - Georgiou, K., Fabiani, G., Siettos, C., & Yannacopoulos, A. N. (2025). [HEATNETs: Explainable Random Feature Neural Networks for High-Dimensional Parabolic PDEs](https://www.arxiv.org/pdf/2511.00886). arXiv preprint arXiv:2511.00886.
