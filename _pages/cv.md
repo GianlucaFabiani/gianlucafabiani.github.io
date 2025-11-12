@@ -142,28 +142,28 @@ Peer-reviewing activity
 
 Gianluca Fabiani has served as a reviewer for several scientific journals (18), covering topics related to scientific computing, dynamical systems, and multidisciplinary research. His peer review contributions include the following **(total 49 reviews)**:
 
-<!--  values: Q1top-5 (SJR>4), Q1high-3 (SJR>2), Q1-2 (SJR>1), Q1low-1.5 (SJR limit), Q2-0.5, Q3-0.2, Q4-0.1, preprint-0.05 -->
+<!--  values: Q1top-5 (SJR>4), Q1high-4 (SJR>2), Q1-3 (SJR>1), Q1low-2 (SJR limit), Q2-1.5, Q3-0.75, Q4-0.3, preprint-0.1 -->
 <!-- secondary venue -2 levels -->
 
-* _Nonlinear Dynamics (Springer)_ **5** <!-- Q1 --> <!-- 10 -->
-* _Soft Computing (Elsevier)_ **14** <!-- Q2 --> <!-- 7 -->
-* _Scientific Reports (Springer)_ **4** <!-- Q1low --> <!-- 6 -->
-* _Plos One_ **4** <!-- Q1low --> <!-- 6 -->
-* _Computers in Biology and Medicine (Elsevier)_ **2** <!-- Q1 --> <!-- 4 -->
-* _Artificial Intelligence Review (Springer)_ **1** <!-- Q1high --> <!-- 3 -->
-* _Archives of Computational Methods in Engineering (Springer)_ **1** <!-- Q1high --> <!-- 3 -->
-* _Transaction on machine learning research_ **2** <!-- Q1high (secondary venue) --> <!-- 3 -->
-* _Journal of Computational and Applied Mathematics (Elsevier)_ **5** <!-- Q2 --> <!-- 2.5 -->
-* _Plos Computational Biology_ **1** <!-- Q1 --> <!-- 2 -->
-* _Engineering with Computers (Springer)_ **1** <!-- Q1 --> <!-- 2 -->
-* _Multibody System Dynamics (Springer)_ **1** <!-- Q1low --> <!-- 1.5 -->
-* _Mathematics (mdpi)_ **3** <!-- Q2 --> <!-- 1.5 -->
-* _Optimization and Engineering (Springer)_ **1** <!-- Q2 --> <!-- 0.5 -->
-* _Discover Computing (Springer)_ **1** <!-- Q2 --> <!-- 0.5 -->
-* _Modelling (mdpi)_ **1** <!-- Q2 --> <!-- 0.5 -->
-* _International Journal of Applied and Computational Mathematics (Springer)_ **1** <!-- Q3 --> <!-- 0.1 -->
-* _International Journal of Theoretical Physics (Springer)_ **1** <!-- Q3 --> <!-- 0.1 -->
-<!--* Qeios (preprints) **1** --> <!-- 0.05 -->
+* _Soft Computing (Elsevier)_ **14** <!-- Q2 --> <!-- 21 -->
+* _Nonlinear Dynamics (Springer)_ **5** <!-- Q1 --> <!-- 15 -->
+* _Scientific Reports (Springer)_ **4** <!-- Q1low --> <!-- 8 -->
+* _Plos One_ **4** <!-- Q1low --> <!-- 8 -->
+* _Journal of Computational and Applied Mathematics (Elsevier)_ **5** <!-- Q2 --> <!-- 7.5 -->
+* _Computers in Biology and Medicine (Elsevier)_ **2** <!-- Q1 --> <!-- 6 -->
+* _Mathematics (mdpi)_ **3** <!-- Q2 --> <!-- 4.5 -->
+* _Artificial Intelligence Review (Springer)_ **1** <!-- Q1high --> <!-- 4 -->
+* _Archives of Computational Methods in Engineering (Springer)_ **1** <!-- Q1high --> <!-- 4 -->
+* _Transaction on machine learning research_ **2** <!-- Q1high (secondary venue) --> <!-- 4 -->
+* _Plos Computational Biology_ **1** <!-- Q1 --> <!-- 3 -->
+* _Engineering with Computers (Springer)_ **1** <!-- Q1 --> <!-- 3 -->
+* _Multibody System Dynamics (Springer)_ **1** <!-- Q1low --> <!-- 2 -->
+* _Optimization and Engineering (Springer)_ **1** <!-- Q2 --> <!-- 1.5 -->
+* _Discover Computing (Springer)_ **1** <!-- Q2 --> <!-- 1.5 -->
+* _Modelling (mdpi)_ **1** <!-- Q2 --> <!-- 1.5 -->
+* _International Journal of Applied and Computational Mathematics (Springer)_ **1** <!-- Q3 --> <!-- 0.75 -->
+* _International Journal of Theoretical Physics (Springer)_ **1** <!-- Q3 --> <!-- 0.75 -->
+<!--* Qeios (preprints) **1** --> <!-- 0.1 -->
 
 Skills
 ======
