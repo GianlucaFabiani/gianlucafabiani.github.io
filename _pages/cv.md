@@ -140,7 +140,7 @@ Teaching (Assistant and Didactic Internship)
 Peer-reviewing activity
 =====
 
-Gianluca Fabiani has served as a reviewer for several scientific journals (17), covering topics related to scientific computing, dynamical systems, and multidisciplinary research. His peer review contributions include the following **(total 50 reviews)**:
+Gianluca Fabiani has served as a reviewer for several scientific journals (17), covering topics related to scientific computing, dynamical systems, and multidisciplinary research. His peer review contributions include the following **(total 51 reviews)**:
 
 <!--  values: Q1top-5 (SJR>4), Q1high-4 (SJR>2), Q1-3 (SJR>1), Q1low-2 (SJR limit), Q2-1.5, Q3-0.75, Q4-0.3, preprint-0.1 -->
 <!-- secondary venue -2 levels -->
@@ -149,11 +149,11 @@ Gianluca Fabiani has served as a reviewer for several scientific journals (17), 
 * _Nonlinear Dynamics (Springer)_ **5** <!-- Q1 --> <!-- 15 -->
 * _Plos One_ **5** <!-- Q1low --> <!-- 10 -->
 * _Scientific Reports (Springer)_ **5** <!-- Q1low --> <!-- 10 -->
+* _Artificial Intelligence Review (Springer)_ **2** <!-- Q1high --> <!-- 8 -->
 * _Journal of Computational and Applied Mathematics (Elsevier)_ **5** <!-- Q2 --> <!-- 7.5 -->
 * _Computers in Biology and Medicine (Elsevier)_ **2** <!-- Q1 --> <!-- 6 -->
 * _Mathematics (mdpi)_ **3** <!-- Q2 --> <!-- 4.5 -->
 * _Transaction on machine learning research_ **2** <!-- Q1high (secondary venue) --> <!-- 4 -->
-* _Artificial Intelligence Review (Springer)_ **1** <!-- Q1high --> <!-- 4 -->
 * _Archives of Computational Methods in Engineering (Springer)_ **1** <!-- Q1high --> <!-- 4 -->
 * _Plos Computational Biology_ **1** <!-- Q1 --> <!-- 3 -->
 * _Engineering with Computers (Springer)_ **1** <!-- Q1 --> <!-- 3 -->
