@@ -140,7 +140,7 @@ Teaching (Assistant and Didactic Internship)
 Peer-reviewing activity
 =====
 
-Gianluca Fabiani has served as a reviewer for several scientific journals (18), covering topics related to scientific computing, dynamical systems, and multidisciplinary research. His peer review contributions include the following **(total 58 reviews)**:
+Gianluca Fabiani has served as a reviewer for several scientific journals (19), covering topics related to scientific computing, dynamical systems, and multidisciplinary research. His peer review contributions include the following **(total 59 reviews)**:
 
 <!--  values: Q1top-5 (SJR>4), Q1high-4 (SJR>2), Q1-3 (SJR>1), Q1low-2 (SJR limit), Q2-1.5, Q3-0.75, Q4-0.3, preprint-0.1 -->
 <!-- secondary venue -2 levels -->
@@ -156,6 +156,7 @@ Gianluca Fabiani has served as a reviewer for several scientific journals (18), 
 * _Transaction on machine learning research_ **3** <!-- Q1high (secondary venue) --> <!-- 6 -->
 * _Archives of Computational Methods in Engineering (Springer)_ **1** <!-- Q1high --> <!-- 4 -->
 * _Plos Computational Biology_ **1** <!-- Q1 --> <!-- 3 -->
+* _IEEE Control Systems Letters (L-CSS)_  **1** <!-- Q1 --> <!-- 3 -->
 * _Engineering with Computers (Springer)_ **1** <!-- Q1 --> <!-- 3 -->
 * _Computers (mdpi)_ **2** <!-- Q2 --> <!-- 3 -->
 * _Multibody System Dynamics (Springer)_ **1** <!-- Q1low --> <!-- 2 -->
