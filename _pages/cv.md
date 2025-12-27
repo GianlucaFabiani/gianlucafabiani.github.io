@@ -153,7 +153,7 @@ Gianluca Fabiani has served as a reviewer for several scientific journals (18), 
 * _Journal of Computational and Applied Mathematics (Elsevier)_ **5** <!-- Q2 --> <!-- 7.5 -->
 * _Computers in Biology and Medicine (Elsevier)_ **2** <!-- Q1 --> <!-- 6 -->
 * _Mathematics (mdpi)_ **4** <!-- Q2 --> <!-- 6 -->
-* _Transaction on machine learning research_ **2** <!-- Q1high (secondary venue) --> <!-- 4 -->
+* _Transaction on machine learning research_ **3** <!-- Q1high (secondary venue) --> <!-- 6 -->
 * _Archives of Computational Methods in Engineering (Springer)_ **1** <!-- Q1high --> <!-- 4 -->
 * _Plos Computational Biology_ **1** <!-- Q1 --> <!-- 3 -->
 * _Engineering with Computers (Springer)_ **1** <!-- Q1 --> <!-- 3 -->
