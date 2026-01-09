@@ -63,13 +63,13 @@ Research Activities
 Publications Impact 
 ======
 
-From ResearchGate (RG) and Google Scholar (GS), updated up to **Oct 4, 2025**
+From ResearchGate (RG) and Google Scholar (GS), updated up to **Jan 9, 2026**
 ----
-* Citations **399** (max between RG 399 and GS 398)
+* Citations **453** (max between RG 447 and GS 453)
 * h-index **10**
 * i10-index **10**
-* g-index **19** (Harzing's publish or perish, about GS stats)
-* Research Interest Score **357.6** (RG)
+* g-index **21** (Harzing's publish or perish, about GS stats)
+* Research Interest Score **387.4** (RG)
   * higher than **82%** of ResearchGate members.
   * higher than **98%** of ResearchGate members who first published in 2020
   <!--* higher than **81%** of researchers with work related to Applied Mathematics-->
@@ -80,7 +80,7 @@ From ResearchGate (RG) and Google Scholar (GS), updated up to **Oct 4, 2025**
   <!--* higher than **85%** of researchers with work related to Computing in Social science, Arts and Humanities-->
   <!--* higher than **76%** of researchers with work related to Mathematical Physics-->
   <!--* Total reads **4655** (RG)-->
-* Recommendations **109** (RG)
+* Recommendations **113** (RG)
 <!--From Scopus (2019–2023)-->
 <!-----------  -->
 <!--* **225** Citations by **133** documents -->
