@@ -145,13 +145,13 @@ Gianluca Fabiani has served as a reviewer for several scientific journals (19), 
 <!--  values: Q1top-5 (SJR>4), Q1high-4 (SJR>2), Q1-3 (SJR>1), Q1low-2 (SJR limit), Q2-1.5, Q3-0.75, Q4-0.3, preprint-0.1 -->
 <!-- secondary venue -2 levels -->
 
-* _Soft Computing (Elsevier)_ **18** <!-- Q2 --> <!-- 27 -->
+* _Soft Computing (Elsevier)_ **18** <!-- Q2 --> <!-- 27 (soco)--> 
 * _Nonlinear Dynamics (Springer)_ **6** <!-- Q1 --> <!-- 18 -->
 * _Plos One_ **6** <!-- Q1low --> <!-- 12 -->
 * _Scientific Reports (Springer)_ **5** <!-- Q1low --> <!-- 10 -->
 * _Artificial Intelligence Review (Springer)_ **2** <!-- Q1high --> <!-- 8 -->
-* _Journal of Computational and Applied Mathematics (Elsevier)_ **5** <!-- Q2 --> <!-- 7.5 -->
-* _Computers in Biology and Medicine (Elsevier)_ **2** <!-- Q1 --> <!-- 6 -->
+* _Journal of Computational and Applied Mathematics (Elsevier)_ **5** <!-- Q2 --> <!-- 7.5 elscam-->
+* _Computers in Biology and Medicine (Elsevier)_ **2** <!-- Q1 --> <!-- 6 cibm-->
 * _Mathematics (mdpi)_ **4** <!-- Q2 --> <!-- 6 -->
 * _Transaction on machine learning research_ **3** <!-- Q1high (secondary venue) --> <!-- 6 -->
 * _Archives of Computational Methods in Engineering (Springer)_ **1** <!-- Q1high --> <!-- 4 -->
