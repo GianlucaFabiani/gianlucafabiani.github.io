@@ -83,13 +83,13 @@ From ResearchGate (RG) and Google Scholar (GS), updated up to **Jan 9, 2026**
 * Recommendations **113** (RG)
 <!--From Scopus (2019–2023)-->
 <!-----------  -->
-<!--* **225** Citations by **133** documents -->
+<!--* **241** Citations by **146** documents -->
 <!--* **12** Documents-->
-<!--* **7** h-index-->
+<!--* **8** h-index-->
 * **25** Co-authors (Scopus)
 * Percent of documents in the top 25% most cited documents worldwide **80%** (Scopus, 10 documents from 2021-2024)
 * Documents in top 25% journals by CiteScore percentile **100%** (Scopus, 10 documents from 2021-2024)
-* Field-Weighted Citation Impact **2.23 FWCI** (Scopus)
+* Field-Weighted Citation Impact **2.13 FWCI** (Scopus)
 
 List of peer-reviewed publications
 ======
@@ -140,7 +140,7 @@ Teaching (Assistant and Didactic Internship)
 Peer-reviewing activity
 =====
 
-Gianluca Fabiani has served as a reviewer for several scientific journals (19), covering topics related to scientific computing, dynamical systems, and multidisciplinary research. His peer review contributions include the following **(total 62 reviews)**:
+Gianluca Fabiani has served as a reviewer for several scientific journals (20), covering topics related to scientific computing, dynamical systems, and multidisciplinary research. His peer review contributions include the following **(total 63 reviews)**:
 
 <!--  values: Q1top-5 (SJR>4), Q1high-4 (SJR>2), Q1-3 (SJR>1), Q1low-2 (SJR limit), Q2-1.5, Q3-0.75, Q4-0.3, preprint-0.1 -->
 <!-- secondary venue -2 levels -->
@@ -155,6 +155,7 @@ Gianluca Fabiani has served as a reviewer for several scientific journals (19), 
 * _Mathematics (mdpi)_ **4** <!-- Q2 --> <!-- 6 -->
 * _Transaction on machine learning research_ **3** <!-- Q1high (secondary venue) --> <!-- 6 -->
 * _Archives of Computational Methods in Engineering (Springer)_ **1** <!-- Q1high --> <!-- 4 -->
+* _BIT Numerical Mathematics (Springer)_ **1** <!-- Q1 --> <!-- 3 -->
 * _Plos Computational Biology_ **1** <!-- Q1 --> <!-- 3 -->
 * _IEEE Control Systems Letters (L-CSS)_  **1** <!-- Q1 --> <!-- 3 -->
 * _Engineering with Computers (Springer)_ **1** <!-- Q1 --> <!-- 3 -->
