@@ -144,7 +144,7 @@ Gianluca Fabiani has served as a reviewer for several scientific journals (**25*
 
 <!--  values: Q1top-13 (SJR>4), Q1high-7 (SJR>2), Q1-4 (SJR>1), Q1low-2.5 (SJR limit), Q2-1.5, Q3-0.75, Q4-0.3, preprint-0.1 -->
 <!-- secondary venue -2 levels -->
-<! -- bad reputation -1 level (mdpi) -->
+<!-- bad reputation -1 level (mdpi) -->
 
 * _Soft Computing (Elsevier)_ **21** <!-- Q2 --> <!-- 31.5 (soco)--> 
 * _Nonlinear Dynamics (Springer)_ **6** <!-- Q1 --> <!-- 24 -->
