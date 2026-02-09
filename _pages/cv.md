@@ -140,34 +140,36 @@ Teaching (Assistant and Didactic Internship)
 Peer-reviewing activity
 =====
 
-Gianluca Fabiani has served as a reviewer for several scientific journals (**24**), covering topics related to scientific computing, numerical analysis, machine learning, dynamical systems, and multidisciplinary research. His peer review contributions include the following **(total 73 reviews)**:
+Gianluca Fabiani has served as a reviewer for several scientific journals (**25**), covering topics related to scientific computing, numerical analysis, machine learning, dynamical systems, and multidisciplinary research. His peer review contributions include the following **(total 74 reviews)**:
 
-<!--  values: Q1top-5 (SJR>4), Q1high-4 (SJR>2), Q1-3 (SJR>1), Q1low-2 (SJR limit), Q2-1.5, Q3-0.75, Q4-0.3, preprint-0.1 -->
+<!--  values: Q1top-13 (SJR>4), Q1high-7 (SJR>2), Q1-4 (SJR>1), Q1low-2.5 (SJR limit), Q2-1.5, Q3-0.75, Q4-0.3, preprint-0.1 -->
 <!-- secondary venue -2 levels -->
+<! -- bad reputation -1 level (mdpi) -->
 
 * _Soft Computing (Elsevier)_ **21** <!-- Q2 --> <!-- 31.5 (soco)--> 
-* _Nonlinear Dynamics (Springer)_ **6** <!-- Q1 --> <!-- 18 -->
-* _Plos One_ **6** <!-- Q1low --> <!-- 12 -->
-* _Scientific Reports (Nature Portfolio)_ **6** <!-- Q1low --> <!-- 12 -->
-* _Transaction on machine learning research_ **5** <!-- Q1high (secondary venue, so Q1low) --> <!-- 10 -->
-* _Artificial Intelligence Review (Springer)_ **2** <!-- Q1high --> <!-- 8 -->
+* _Nonlinear Dynamics (Springer)_ **6** <!-- Q1 --> <!-- 24 -->
+* _Plos One_ **6** <!-- Q1low --> <!-- 15 -->
+* _Scientific Reports (Nature Portfolio)_ **6** <!-- Q1low --> <!-- 15 -->
+* _Artificial Intelligence Review (Springer)_ **2** <!-- Q1high --> <!-- 14 -->
+* _Nature Communications (Nature Portfolio)_ **1** <!-- Q1top --> <!-- 13-->
+* _Transaction on machine learning research_ **5** <!-- Q1high (secondary venue, so Q1low) --> <!-- 12.5 -->
+* _Computers in Biology and Medicine (Elsevier)_ **2** <!-- Q1 --> <!-- 8 cibm-->
 * _Journal of Computational and Applied Mathematics (Elsevier)_ **5** <!-- Q2 --> <!-- 7.5 elscam-->
-* _Computers in Biology and Medicine (Elsevier)_ **2** <!-- Q1 --> <!-- 6 cibm-->
-* _Mathematics (mdpi)_ **4** <!-- Q2 --> <!-- 6 -->
-* _Journal of Computational Physics (Elsevier)_ **1** <!-- Q1high --> <!-- 4 -->
-* _Archives of Computational Methods in Engineering (Springer)_ **1** <!-- Q1high --> <!-- 4 -->
-* _BIT Numerical Mathematics (Springer)_ **1** <!-- Q1 --> <!-- 3 -->
-* _Mathematics and Computers in Simulation (Elsevier)_ **1** <!-- Q1 --> <!-- 3 -->
-* _Plos Computational Biology_ **1** <!-- Q1 --> <!-- 3 -->
-* _IEEE Control Systems Letters (L-CSS)_  **1** <!-- Q1 --> <!-- 3 -->
-* _Engineering with Computers (Springer)_ **1** <!-- Q1 --> <!-- 3 -->
-* _Computers (mdpi)_ **2** <!-- Q2 --> <!-- 3 -->
-* _Communications in nonlinear science and numerical simulation_ **1** <!-- Q1low --> <!-- 2 -->
-* _Multibody System Dynamics (Springer)_ **1** <!-- Q1low --> <!-- 2 -->
+* _Journal of Computational Physics (Elsevier)_ **1** <!-- Q1high --> <!-- 7 -->
+* _Archives of Computational Methods in Engineering (Springer)_ **1** <!-- Q1high --> <!-- 7 -->
+* _BIT Numerical Mathematics (Springer)_ **1** <!-- Q1 --> <!-- 4 -->
+* _Mathematics and Computers in Simulation (Elsevier)_ **1** <!-- Q1 --> <!-- 4 -->
+* _Plos Computational Biology_ **1** <!-- Q1 --> <!-- 4 -->
+* _IEEE Control Systems Letters (L-CSS)_  **1** <!-- Q1 --> <!-- 4 -->
+* _Engineering with Computers (Springer)_ **1** <!-- Q1 --> <!-- 4 -->
+* _Mathematics (mdpi)_ **4** <!-- Q2 bad so Q3 --> <!-- 3 -->
+* _Communications in nonlinear science and numerical simulation_ **1** <!-- Q1low --> <!-- 2.5 -->
+* _Multibody System Dynamics (Springer)_ **1** <!-- Q1low --> <!-- 2.5 -->
 * _Optimization and Engineering (Springer)_ **1** <!-- Q2 --> <!-- 1.5 -->
 * _Discover Computing (Springer)_ **1** <!-- Q2 --> <!-- 1.5 -->
-* _Modelling (mdpi)_ **1** <!-- Q2 --> <!-- 1.5 -->
 * _Infectious Disease Modelling_ (KeAi Communication - Elsevier) **1** <!-- Q2 --> <!-- 1.5 -->
+* _Computers (mdpi)_ **2** <!-- Q2 bad so Q3 --> <!-- 1.5 -->
+* _Modelling (mdpi)_ **1** <!-- Q2 bad so Q3 --> <!-- 0.75 -->
 * _International Journal of Theoretical Physics (Springer)_ **1** <!-- Q3 --> <!-- 0.75 -->
 <!--* Qeios (preprints) **1** --> <!-- 0.1 -->
 <!--* _International Journal of Applied and Computational Mathematics (Springer)_ **1** NOT DONE ANYMORE-->  <!-- Q3 --> <!-- 0.75 --> 
