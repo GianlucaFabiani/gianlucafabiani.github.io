@@ -164,7 +164,7 @@ Gianluca Fabiani has served as a reviewer for several scientific journals (**25*
 * _IEEE Control Systems Letters (L-CSS)_  **1** <!-- Q1 --> <!-- 4 -->
 * _Engineering with Computers (Springer)_ **1** <!-- Q1 --> <!-- 4 -->
 * _Mathematics (mdpi)_ **4** <!-- Q2 bad so Q3 --> <!-- 3 -->
-* _Communications in nonlinear science and numerical simulation_ **1** <!-- Q1low --> <!-- 2.5 -->
+* _Communications in nonlinear science and numerical simulation (Elsevier)_ **1** <!-- Q1low --> <!-- 2.5 -->
 * _Multibody System Dynamics (Springer)_ **1** <!-- Q1low --> <!-- 2.5 -->
 * _Optimization and Engineering (Springer)_ **1** <!-- Q2 --> <!-- 1.5 -->
 * _Discover Computing (Springer)_ **1** <!-- Q2 --> <!-- 1.5 -->
