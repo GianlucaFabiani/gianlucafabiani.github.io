@@ -147,7 +147,7 @@ Gianluca Fabiani has served as a reviewer for several scientific journals (**28*
 <!-- bad reputation -1 level (mdpi) -->
 <!-- Numerical Analysis and ML oriented +1 level -->
 
-* _Soft Computing (Elsevier)_ **21** <!-- Q2 --> <!-- 31.5 (soco)-->
+* _Soft Computing (Springer)_ **21** <!-- Q2 --> <!-- 31.5 (soco)-->
 * _Artificial Intelligence Review (Springer)_ **2** <!-- Q1high ML so Q1top --> <!-- 26 -->
 * _Archives of Computational Methods in Engineering (Springer)_ **2** <!-- Q1high NA so Q1top--> <!-- 26 -->
 * _Nonlinear Dynamics (Springer)_ **6** <!-- Q1 --> <!-- 24 -->
@@ -167,7 +167,7 @@ Gianluca Fabiani has served as a reviewer for several scientific journals (**28*
 * _Mathematics (mdpi)_ **4** <!-- Q2 bad so Q3 --> <!-- 3 -->
 * _Communications in nonlinear science and numerical simulation (Elsevier)_ **1** <!-- Q1low --> <!-- 2.5 -->
 * _Multibody System Dynamics (Springer)_ **1** <!-- Q1low --> <!-- 2.5 -->
-* _International Journal of Applied and Computational Mathematics_ **1** <!-- Q2 --> <!-- 1.5 -->
+* _International Journal of Applied and Computational Mathematics (Springer)_ **1** <!-- Q2 --> <!-- 1.5 -->
 * _Optimization and Engineering (Springer)_ **1** <!-- Q2 --> <!-- 1.5 -->
 * _Discover Computing (Springer)_ **1** <!-- Q2 --> <!-- 1.5 -->
 * _European Physical Journal Plus (Springer)_ **1** <!-- Q2 --> <!-- 1.5 -->
