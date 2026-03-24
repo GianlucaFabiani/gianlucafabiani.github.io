@@ -18,6 +18,9 @@ I am a Postdoctoral fellow at the Hopkins Extreme Materials Institute, Johns Hop
 
 News
 ======
+* New  [Arxiv preprint](https://arxiv.org/pdf/2603.21568)
+  - Fabiani G., Kavousanakis M.E., Siettos C., Kevrekidis I.G. (2026). [Stability and Bifurcation Analysis of Nonlinear PDEs via Random Projection-based PINNs: A Krylov-Arnoldi Approach](https://arxiv.org/pdf/2603.21568). arXiv preprint arXiv:2603.21568.
+ 
 * New  [Arxiv preprint](https://www.arxiv.org/pdf/2511.00886)
   - Georgiou, K., Fabiani, G., Siettos, C., & Yannacopoulos, A. N. (2025). [HEATNETs: Explainable Random Feature Neural Networks for High-Dimensional Parabolic PDEs](https://www.arxiv.org/pdf/2511.00886). arXiv preprint arXiv:2511.00886.
 
