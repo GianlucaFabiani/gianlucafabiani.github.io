@@ -63,14 +63,14 @@ Research Activities
 Publications Impact 
 ======
 
-From ResearchGate (RG) and Google Scholar (GS), updated up to **Jan 9, 2026**
+From ResearchGate (RG) and Google Scholar (GS), updated up to **Mar 24, 2026**
 ----
-* Citations **453** (max between RG 447 and GS 453)
-* h-index **10**
-* i10-index **10**
-* g-index **21** (Harzing's publish or perish, about GS stats)
-* Research Interest Score **387.4** (RG)
-  * higher than **82%** of ResearchGate members.
+* Citations **521** (max between RG 518 and GS 521)
+* h-index **11**
+* i10-index **11**
+* g-index **22** (Harzing's publish or perish, about GS stats)
+* Research Interest Score **416.9** (RG)
+  * higher than **83%** of ResearchGate members.
   * higher than **98%** of ResearchGate members who first published in 2020
   <!--* higher than **81%** of researchers with work related to Applied Mathematics-->
   <!--* higher than **86%** of researchers with work related to Artificial Intelligence-->
@@ -80,16 +80,16 @@ From ResearchGate (RG) and Google Scholar (GS), updated up to **Jan 9, 2026**
   <!--* higher than **85%** of researchers with work related to Computing in Social science, Arts and Humanities-->
   <!--* higher than **76%** of researchers with work related to Mathematical Physics-->
   <!--* Total reads **4655** (RG)-->
-* Recommendations **113** (RG)
+* Recommendations **117** (RG)
 <!--From Scopus (2019–2023)-->
 <!-----------  -->
-<!--* **241** Citations by **146** documents -->
+<!--* **278** Citations by **169** documents -->
 <!--* **12** Documents-->
 <!--* **8** h-index-->
 * **25** Co-authors (Scopus)
-* Percent of documents in the top 25% most cited documents worldwide **80%** (Scopus, 10 documents from 2021-2024)
+<!--* Percent of documents in the top 25% most cited documents worldwide **70%** (Scopus, 10 documents from 2021-2024)-->
 * Documents in top 25% journals by CiteScore percentile **100%** (Scopus, 10 documents from 2021-2024)
-* Field-Weighted Citation Impact **2.13 FWCI** (Scopus)
+* Field-Weighted Citation Impact **2.21 FWCI** (Scopus)
 
 List of peer-reviewed publications
 ======
