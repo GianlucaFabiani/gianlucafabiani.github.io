@@ -168,19 +168,18 @@ Gianluca Fabiani has served as a reviewer for several scientific journals (**30*
   * _Multibody System Dynamics (Springer)_ **1** <!-- Q1low --> <!-- 2.5 -->
 
 - **Others**
-* ~ _Soft Computing (Springer)_ **22** <!-- Q2 --> <!-- 33 (soco) +20-->
-* _Journal of Computational and Applied Mathematics (Elsevier)_ **5** <!-- Q2 NA so Q1low --> <!-- 12.5 elscam-->
-* _Mathematics (mdpi)_ **4** <!-- Q2 bad so Q3 --> <!-- 3 -->
-* _International Journal of Applied and Computational Mathematics (Springer)_ **1** <!-- Q2 --> <!-- 1.5 -->
-* _Optimization and Engineering (Springer)_ **1** <!-- Q2 --> <!-- 1.5 -->
-* _Discover Computing (Springer)_ **1** <!-- Q2 --> <!-- 1.5 -->
-* _European Physical Journal Plus (Springer)_ **1** <!-- Q2 --> <!-- 1.5 -->
-* _Infectious Disease Modelling_ (KeAi Communication - Elsevier) **1** <!-- Q2 --> <!-- 1.5 -->
-* _International Journal of Computational Intelligence Systems (Springer)_ **1** <!-- Q2 --> <!-- 1.5 -->
-* _Advances in Continuous and Discrete Models: Theory and Applications (Springer)_ **1** <!-- Q2 --> <!-- 1.5 -->
-* _Computers (mdpi)_ **2** <!-- Q2 bad so Q3 --> <!-- 1.5 -->
-* _Modelling (mdpi)_ **1** <!-- Q2 bad so Q3 --> <!-- 0.75 -->
-* _International Journal of Theoretical Physics (Springer)_ **1** <!-- Q3 --> <!-- 0.75 -->
+  ~ _Soft Computing (Springer)_ **22** <!-- Q2 --> <!-- 33 (soco) +20--> ~ _Journal of Computational and Applied Mathematics (Elsevier)_ **5** <!-- Q2 NA so Q1low --> <!-- 12.5 elscam-->
+ ~ _Mathematics (mdpi)_ **4** <!-- Q2 bad so Q3 --> <!-- 3 -->
+ ~ _International Journal of Applied and Computational Mathematics (Springer)_ **1** <!-- Q2 --> <!-- 1.5 -->
+ ~ _Optimization and Engineering (Springer)_ **1** <!-- Q2 --> <!-- 1.5 -->
+ ~ _Discover Computing (Springer)_ **1** <!-- Q2 --> <!-- 1.5 -->
+ ~ _European Physical Journal Plus (Springer)_ **1** <!-- Q2 --> <!-- 1.5 -->
+ ~ _Infectious Disease Modelling_ (KeAi Communication - Elsevier) **1** <!-- Q2 --> <!-- 1.5 -->
+ ~ _International Journal of Computational Intelligence Systems (Springer)_ **1** <!-- Q2 --> <!-- 1.5 -->
+ ~ _Advances in Continuous and Discrete Models: Theory and Applications (Springer)_ **1** <!-- Q2 --> <!-- 1.5 -->
+ ~ _Computers (mdpi)_ **2** <!-- Q2 bad so Q3 --> <!-- 1.5 -->
+ ~ _Modelling (mdpi)_ **1** <!-- Q2 bad so Q3 --> <!-- 0.75 -->
+ ~ _International Journal of Theoretical Physics (Springer)_ **1** <!-- Q3 --> <!-- 0.75 -->
 <!--* Qeios (preprints) **1** --> <!-- 0.1 -->
 <!--* _International Journal of Applied and Computational Mathematics (Springer)_ **1** NOT DONE ANYMORE-->  <!-- Q3 --> <!-- 0.75 --> 
 
