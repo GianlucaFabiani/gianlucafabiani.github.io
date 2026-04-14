@@ -148,26 +148,29 @@ Gianluca Fabiani has served as a reviewer for several scientific journals (**30*
 <!-- Numerical Analysis and ML oriented +1 level -->
 <!-- each 10 reviews, add 10 points -->
 
-* _Soft Computing (Springer)_ **22** <!-- Q2 --> <!-- 33 (soco) +20-->
-* _Archives of Computational Methods in Engineering (Springer)_ **3** <!-- Q1high NA so Q1top--> <!-- 39 -->
-* _Artificial Intelligence Review (Springer)_ **2** <!-- Q1high ML so Q1top --> <!-- 26 -->
-* _Nonlinear Dynamics (Springer)_ **6** <!-- Q1 --> <!-- 24 -->
-* _Transaction on machine learning research_ **6** <!-- Q1high (secondary venue, but ML) so Q1 --> <!-- 24 -->
-* _Scientific Reports (Nature Portfolio)_ **8** <!-- Q1low --> <!-- 20 -->
-* _Plos One_ **6** <!-- Q1low --> <!-- 15 -->
-* _Nature Communications (Nature Portfolio)_ **1** <!-- Q1top --> <!-- 13-->
-* _Journal of Computational Physics (Elsevier)_ **1** <!-- Q1high NA so Q1top --> <!-- 13 -->
+- **Q1 journals**
+  * _Archives of Computational Methods in Engineering (Springer)_ **3** <!-- Q1high NA so Q1top--> <!-- 39 -->
+  * _Artificial Intelligence Review (Springer)_ **2** <!-- Q1high ML so Q1top --> <!-- 26 -->
+  * _Nonlinear Dynamics (Springer)_ **6** <!-- Q1 --> <!-- 24 -->
+  * _Transaction on machine learning research_ **6** <!-- Q1high (secondary venue, but ML) so Q1 --> <!-- 24 -->
+  * _Scientific Reports (Nature Portfolio)_ **8** <!-- Q1low --> <!-- 20 -->
+  * _Plos One_ **6** <!-- Q1low --> <!-- 15 -->
+  * _Nature Communications (Nature Portfolio)_ **1** <!-- Q1top --> <!-- 13-->
+  * _Journal of Computational Physics (Elsevier)_ **1** <!-- Q1high NA so Q1top --> <!-- 13 -->
+  * _Computers in Biology and Medicine (Elsevier)_ **2** <!-- Q1 --> <!-- 8 cibm-->
+  * _Communications Engineering (Nature Portfolio)_ **1** <!-- Q1high --> <!-- 7 -->
+  * _BIT Numerical Mathematics (Springer)_ **1** <!-- Q1 NA so Q1high --> <!-- 7 -->
+  * _Mathematics and Computers in Simulation (Elsevier)_ **1** <!-- Q1 NA so Q1high --> <!-- 7 -->
+  * _Plos Computational Biology_ **1** <!-- Q1 --> <!-- 4 -->
+  * _IEEE Control Systems Letters (L-CSS)_  **1** <!-- Q1 --> <!-- 4 -->
+  * _Engineering with Computers (Springer)_ **1** <!-- Q1 --> <!-- 4 -->
+  * _Communications in nonlinear science and numerical simulation (Elsevier)_ **1** <!-- Q1low --> <!-- 2.5 -->
+  * _Multibody System Dynamics (Springer)_ **1** <!-- Q1low --> <!-- 2.5 -->
+
+- **Others**
+* ~ _Soft Computing (Springer)_ **22** <!-- Q2 --> <!-- 33 (soco) +20-->
 * _Journal of Computational and Applied Mathematics (Elsevier)_ **5** <!-- Q2 NA so Q1low --> <!-- 12.5 elscam-->
-* _Computers in Biology and Medicine (Elsevier)_ **2** <!-- Q1 --> <!-- 8 cibm-->
-* _Communications Engineering (Nature Portfolio)_ **1** <!-- Q1high --> <!-- 7 -->
-* _BIT Numerical Mathematics (Springer)_ **1** <!-- Q1 NA so Q1high --> <!-- 7 -->
-* _Mathematics and Computers in Simulation (Elsevier)_ **1** <!-- Q1 NA so Q1high --> <!-- 7 -->
-* _Plos Computational Biology_ **1** <!-- Q1 --> <!-- 4 -->
-* _IEEE Control Systems Letters (L-CSS)_  **1** <!-- Q1 --> <!-- 4 -->
-* _Engineering with Computers (Springer)_ **1** <!-- Q1 --> <!-- 4 -->
 * _Mathematics (mdpi)_ **4** <!-- Q2 bad so Q3 --> <!-- 3 -->
-* _Communications in nonlinear science and numerical simulation (Elsevier)_ **1** <!-- Q1low --> <!-- 2.5 -->
-* _Multibody System Dynamics (Springer)_ **1** <!-- Q1low --> <!-- 2.5 -->
 * _International Journal of Applied and Computational Mathematics (Springer)_ **1** <!-- Q2 --> <!-- 1.5 -->
 * _Optimization and Engineering (Springer)_ **1** <!-- Q2 --> <!-- 1.5 -->
 * _Discover Computing (Springer)_ **1** <!-- Q2 --> <!-- 1.5 -->
