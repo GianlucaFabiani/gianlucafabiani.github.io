@@ -140,7 +140,7 @@ Teaching (Assistant and Didactic Internship)
 Peer-reviewing activity
 =====
 
-Gianluca Fabiani has served as a reviewer for several scientific journals (**32**), covering topics related to scientific computing, numerical analysis, machine learning, dynamical systems, and multidisciplinary research. His peer review contributions include the following **(total 87 reviews)**:
+Gianluca Fabiani has served as a reviewer for several scientific journals (**32**), covering topics related to scientific computing, numerical analysis, machine learning, dynamical systems, and multidisciplinary research. His peer review contributions include the following **(total 88 reviews)**:
 
 <!--  values: Q1top-13 (SJR>4), Q1high-7 (SJR>2), Q1-4 (SJR>1), Q1low-2.5 (SJR limit), Q2-1.5, Q3-0.75, Q4-0.3, preprint-0.1 -->
 <!-- secondary venue -2 levels -->
@@ -169,7 +169,7 @@ Gianluca Fabiani has served as a reviewer for several scientific journals (**32*
   * _Multibody System Dynamics (Springer)_ **1** <!-- Q1low --> <!-- 2.5 -->
 
 - **Others**
-  ~ _Soft Computing (Springer)_ **22** <!-- Q2 --> <!-- 33 (soco) +20--> ~ _Journal of Computational and Applied Mathematics (Elsevier)_ **5** <!-- Q2 NA so Q1low --> <!-- 12.5 elscam-->
+  ~ _Soft Computing (Springer)_ **23** <!-- Q2 --> <!-- 34.5 (soco) +20--> ~ _Journal of Computational and Applied Mathematics (Elsevier)_ **5** <!-- Q2 NA so Q1low --> <!-- 12.5 elscam-->
  ~ _Mathematics (mdpi)_ **4** <!-- Q2 bad so Q3 --> <!-- 3 -->
  ~ _International Journal of Applied and Computational Mathematics (Springer)_ **1** <!-- Q2 --> <!-- 1.5 -->
  ~ _Optimization and Engineering (Springer)_ **1** <!-- Q2 --> <!-- 1.5 -->
