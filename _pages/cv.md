@@ -150,13 +150,13 @@ Gianluca Fabiani has served as a reviewer for several scientific journals (**33*
 
 - **Q1 journals**
   * _Archives of Computational Methods in Engineering (Springer)_ **3** <!-- Q1high NA so Q1top--> <!-- 39 -->
+  * _Journal of Computational Physics (Elsevier)_ **2** <!-- Q1high NA so Q1top --> <!-- 26 -->
   * _Artificial Intelligence Review (Springer)_ **2** <!-- Q1high ML so Q1top --> <!-- 26 -->
   * _Nonlinear Dynamics (Springer)_ **6** <!-- Q1 --> <!-- 24 -->
   * _Transaction on machine learning research_ **6** <!-- Q1high (secondary venue, but ML) so Q1 --> <!-- 24 -->
   * _Scientific Reports (Nature Portfolio)_ **8** <!-- Q1low --> <!-- 20 -->
   * _Plos One_ **6** <!-- Q1low --> <!-- 15 -->
   * _Nature Communications (Nature Portfolio)_ **1** <!-- Q1top --> <!-- 13-->
-  * _Journal of Computational Physics (Elsevier)_ **1** <!-- Q1high NA so Q1top --> <!-- 13 -->
   * _Computers in Biology and Medicine (Elsevier)_ **2** <!-- Q1 --> <!-- 8 cibm-->
   * _Communications Engineering (Nature Portfolio)_ **1** <!-- Q1high --> <!-- 7 -->
   * _BIT Numerical Mathematics (Springer)_ **1** <!-- Q1 NA so Q1high --> <!-- 7 -->
