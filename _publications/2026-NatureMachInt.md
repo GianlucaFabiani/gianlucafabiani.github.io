@@ -3,7 +3,7 @@ title: "Enabling Local Neural Operators to perform Equation-Free System-Level An
 collection: publications
 permalink: /publication/2026-NatureMachInt
 excerpt: 'We propose a framework that integrates Neural Operators (NOs) with Krylov subspace iterative methods for efficient stability and bifurcation analysis of large-scale dynamical systems, extending NO applications beyond temporal predictions to system-level numerical tasks'
-date: 2025-06-01
+date: 2026-06-01
 venue: 'Nature Machine Intelligence'
 paperurl: 'https://arxiv.org/abs/2505.02308'
 citation: 'Fabiani, G., Vandecasteele, H., Goswami, S., Siettos, C., & Kevrekidis, I. G., Enabling Local Neural Operators to perform Equation-Free System-Level Analysis, Nat Mach Intell 8, 2026'
