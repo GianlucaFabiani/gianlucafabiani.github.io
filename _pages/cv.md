@@ -140,7 +140,7 @@ Teaching (Assistant and Didactic Internship)
 Peer-reviewing activity
 =====
 
-Gianluca Fabiani has served as a reviewer for several scientific journals (**36**), covering topics related to scientific computing, numerical analysis, machine learning, dynamical systems, and multidisciplinary research. His peer review contributions include the following **(total 100 reviews)**:
+Gianluca Fabiani has served as a reviewer for several scientific journals (**36**), covering topics related to scientific computing, numerical analysis, machine learning, dynamical systems, and multidisciplinary research. His peer review contributions include the following **(total 101 reviews)**:
 
 <!--  values: Q1top-13 (SJR>4), Q1high-7 (SJR>2), Q1-4 (SJR>1), Q1low-2.5 (SJR limit), Q2-1.5, Q3-0.75, Q4-0.3, preprint-0.1 -->
 <!-- secondary venue -2 levels -->
@@ -158,12 +158,12 @@ Gianluca Fabiani has served as a reviewer for several scientific journals (**36*
   * _Plos One_ **6** <!-- Q1low --> <!-- 15 -->
   * _Nature Communications (Nature Portfolio)_ **1** <!-- Q1top --> <!-- 13-->
   * _Computers in Biology and Medicine (Elsevier)_ **2** <!-- Q1 --> <!-- 8 cibm-->
+  * _AI (mdpi)_ **3** <!-- Q1 bad reputation so Q1low --> <!-- 7.5 -->
   * _Communications Engineering (Nature Portfolio)_ **1** <!-- Q1high --> <!-- 7 -->
   * _BIT Numerical Mathematics (Springer)_ **1** <!-- Q1 NA so Q1high --> <!-- 7 -->
   * _Mathematics and Computers in Simulation (Elsevier)_ **1** <!-- Q1 NA so Q1high --> <!-- 7 -->
   * _Neurocomputing (Elsevier)_ **1** <!-- Q1 ML so Q1high --> <!-- 7 -->
   * _Communications in nonlinear science and numerical simulation (Elsevier)_ **2** <!-- Q1low --> <!-- 5 -->
-  * _AI (mdpi)_ **2** <!-- Q1 bad reputation so Q1low --> <!-- 5 -->
   * _Plos Computational Biology_ **1** <!-- Q1 --> <!-- 4 -->
   * _IEEE Control Systems Letters (L-CSS)_  **1** <!-- Q1 --> <!-- 4 -->
   * _Engineering with Computers (Springer)_ **1** <!-- Q1 --> <!-- 4 -->
