@@ -137,6 +137,11 @@ Teaching (Assistant and Didactic Internship)
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Editorial Service
+======
+
+* Reviewing Editor, _Mathematical and Computational Engineering Applications_ (Springer Naturecollection), June, 2026 – Present.
+
 Peer-reviewing activity
 =====
 
