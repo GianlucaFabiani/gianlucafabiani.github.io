@@ -174,6 +174,7 @@ Gianluca Fabiani has served as a reviewer for several scientific journals (**36*
   * _Engineering with Computers (Springer)_ **1** <!-- Q1 --> <!-- 4 -->
   * _Journal of Guidance, Control, and Dynamics (AIAA)_ **1** <!-- Q1 --> <!-- 4 -->
   * _Multibody System Dynamics (Springer)_ **1** <!-- Q1low --> <!-- 2.5 -->
+  * _International Journal of Computational Intelligence Systems (Springer)_ **1** <!-- Q1low --> <!-- 2.5 -->
 
 - **Others**
  ~ _Soft Computing (Springer)_ **23** <!-- Q2 --> <!-- 34.5 (soco) +20-->
@@ -185,7 +186,6 @@ Gianluca Fabiani has served as a reviewer for several scientific journals (**36*
  ~ _Discover Computing (Springer)_ **1** <!-- Q2 --> <!-- 1.5 -->
  ~ _European Physical Journal Plus (Springer)_ **2** <!-- Q2 --> <!-- 3 -->
  ~ _Infectious Disease Modelling_ (KeAi Communication - Elsevier) **1** <!-- Q2 --> <!-- 1.5 -->
- ~ _International Journal of Computational Intelligence Systems (Springer)_ **1** <!-- Q2 --> <!-- 1.5 -->
  ~ _Advances in Continuous and Discrete Models: Theory and Applications (Springer)_ **1** <!-- Q2 --> <!-- 1.5 -->
  ~ _Modelling (mdpi)_ **2** <!-- Q2 bad so Q3 --> <!-- 1.5 -->
  ~ _International Journal of Theoretical Physics (Springer)_ **1** <!-- Q3 --> <!-- 0.75 -->
