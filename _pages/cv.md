@@ -63,7 +63,7 @@ Research Activities
 Publications Impact 
 ======
 
-From ResearchGate (RG) and Google Scholar (GS), updated up to **Mar 24, 2026**
+From ResearchGate (RG) and Google Scholar (GS), updated up to **July 22, 2026**
 ----
 * Citations **607** (max between RG 579 and GS 607)
 * h-index **11**
@@ -112,10 +112,13 @@ Talks in International Conferences
 Conference Organization
 =====
 Local Organizing Committee:
+* [ECSML, 8-10 February 2027, Naples, Italy -- 1st European Conference on Scientific Machine Learning](https://sites.google.com/view/ecsml2027)
 * [DSABNS, 20-24 January 2025, Naples, Italy -- 16th Dynamical Systems applied on Biology and Natural Sciences](https://sites.google.com/view/dsabns2025/) 
 
 Invited Speaker
 ======
+* September 25, 2026: Applied Math Colloquium. University of Maryland Baltimore County (UMBC), USA. [Random Projection Neural Networks for Function and Operator Approximation with Applications to Nonlinear PDEs](\href{https://mathstat.umbc.edu/events/event/154518/)
+* May 7, 2026: Phi-ML meets Engineering seminar series. Alan Turing Institute, UK. [From Random Projections to Neural Operators: Bridging Machine Learning and Numerical Analysis for Nonlinear PDEs](https://www.turing.ac.uk/events/phi-ml-meets-engineering-random-projections-neural-operators-bridging-machine-learning-and)
 * June 23, 2023: Parsimonious Physics-informed Random Projection Neural Networks (RPNN) for solving Forward and Inverse Problems
 https://bpb-us-w2.wpmucdn.com/sites.brown.edu/dist/1/376/files/2023/09/Flyer_6.23.23_Gianluca-Fabiani-Scuola-Superiore-Meridionale-SSM-Naples-Italy.pdf
 
