@@ -65,31 +65,31 @@ Publications Impact
 
 From ResearchGate (RG) and Google Scholar (GS), updated up to **Mar 24, 2026**
 ----
-* Citations **521** (max between RG 518 and GS 521)
+* Citations **607** (max between RG 579 and GS 607)
 * h-index **11**
 * i10-index **11**
-* g-index **22** (Harzing's publish or perish, about GS stats)
-* Research Interest Score **416.9** (RG)
-  * higher than **83%** of ResearchGate members.
+* g-index **24** (Harzing's publish or perish, about GS stats)
+* Research Interest Score **455** (RG)
+  * higher than **84%** of ResearchGate members.
   * higher than **98%** of ResearchGate members who first published in 2020
-  <!--* higher than **81%** of researchers with work related to Applied Mathematics-->
-  <!--* higher than **86%** of researchers with work related to Artificial Intelligence-->
-  <!--* higher than **88%** of researchers with work related to Artificial Neural Networks-->
-  <!-- * higher than **77%** of researchers with work related to Computing in Mathematics, Natural Science, Engineering and Medicine-->
-  <!--* higher than **74%** of researchers with work related to Computational Physics-->
-  <!--* higher than **85%** of researchers with work related to Computing in Social science, Arts and Humanities-->
-  <!--* higher than **76%** of researchers with work related to Mathematical Physics-->
-  <!--* Total reads **4655** (RG)-->
-* Recommendations **117** (RG)
+  <!--* higher than **86%** of researchers with work related to Applied Mathematics-->
+  <!--* higher than **89%** of researchers with work related to Artificial Intelligence-->
+  <!--* higher than **91%** of researchers with work related to Artificial Neural Networks-->
+  <!-- * higher than **81%** of researchers with work related to Computing in Mathematics, Natural Science, Engineering and Medicine-->
+  <!--* higher than **79%** of researchers with work related to Computational Physics-->
+  <!--* higher than **88%** of researchers with work related to Computing in Social science, Arts and Humanities-->
+  <!--* higher than **80%** of researchers with work related to Mathematical Physics-->
+  <!--* Total reads **6017** (RG)-->
+* Recommendations **123** (RG)
 <!--From Scopus (2019–2023)-->
 <!-----------  -->
-<!--* **278** Citations by **169** documents -->
+<!--* **332** Citations by **169** documents -->
 <!--* **12** Documents-->
-<!--* **8** h-index-->
-* **25** Co-authors (Scopus)
+<!--* **9** h-index-->
+<!--** **25** Co-authors (Scopus)
 <!--* Percent of documents in the top 25% most cited documents worldwide **70%** (Scopus, 10 documents from 2021-2024)-->
-* Documents in top 25% journals by CiteScore percentile **100%** (Scopus, 10 documents from 2021-2024)
-* Field-Weighted Citation Impact **2.21 FWCI** (Scopus)
+<!--** Documents in top 25% journals by CiteScore percentile **100%** (Scopus, 10 documents from 2021-2024)-->
+<!--** Field-Weighted Citation Impact **2.21 FWCI** (Scopus)-->
 
 List of peer-reviewed publications
 ======
