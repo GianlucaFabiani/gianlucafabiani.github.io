@@ -1,7 +1,7 @@
 ---
 title: "Stability and Bifurcation Analysis of Nonlinear PDEs via Random Projection-based PINNs: A Krylov-Arnoldi Approach"
 collection: preprints
-permalink: /preprint/JCOMP_StabArnoldiRPNN
+permalink: /preprint/2026-JCOMP_StabArnoldiRPNN
 excerpt: 'We present a matrix-free Krylov–Arnoldi framework within physics-informed random projection neural networks that enables reliable computation of the leading eigenvalues governing linear stability and bifurcations of nonlinear PDEs despite the inherent rank deficiency of the collocation discretization.'
 date: 2026-11-12
 venue: 'Journal of Computational Physics'
